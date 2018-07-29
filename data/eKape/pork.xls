@@ -1,0 +1,5833 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ko">
+<head>
+<title>eKAPEPIA 축산유통종합정보센터</title>
+
+	
+    <!-- 엑셀 다운로드 파일의 경우 headlibs 인크루드 앖음 -->
+    
+    
+
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <form id="frm" name="frm" method="post">
+		<style>
+    br {mso-data-Placement:Same-cell}
+</style>
+<div class="sub_content price_content price_sub_content">
+	<br/><b>유통단계 가격동향(돼지): 2018년 07월 28일 (토) 22:20:20</b>
+	<div class="calendar_wrap">    
+		<div>
+			<label for="whole">조회기간 : 20180101 ~ 20180728</label>
+		</div>
+	</div>
+				<table class="data_table micro_table" border = "1" summary="가격·통계 유통단계 가격동향 돼지(돼지고기)에 대한 구분, 산지가격, 도매가격, 소비자가격을 나타낸 표">
+					<caption></caption>
+					<colgroup>
+						<col width="20%" />
+						<col width="20%" />
+						<col width="20%" />
+						<col width="20%" />
+						<col width="20%" />
+					</colgroup>
+					<thead>
+						<tr>
+							<th scope="col" rowspan="2" class="first line">구분</th>
+							<th scope="col">산지가격</th>
+							<th scope="col" colspan="2">도매가격(탕박)</th>
+							<th scope="col">소비자가격</th>
+						</tr>
+						<tr class="tit_last">
+							<th scope="col">농가수취가격<br>(천원/110kg)</th>
+							<th scope="col">평균<br>(원/kg)</th>
+							<th scope="col">1등급<br>(원/kg)</th>
+							<th scope="col">삼겹살<br>(원/kg)</th>
+						</tr>
+					</thead>
+					<tbody>
+					
+						<tr>
+							<th scope="row" class="first">07월 27일</th>
+							<td><span class="upDown">371</span>
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,399</span>
+								
+									
+									
+									<font color = "blue">↓224</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,640</span>
+								
+									
+									
+									<font color = "blue">↓187</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,771</span>
+								
+									
+									<font color = "red">↑40</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 26일</th>
+							<td><span class="upDown">390</span>
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,623</span>
+								
+									
+									
+									<font color = "blue">↓86</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,827</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,731</span>
+								
+									
+									
+									<font color = "blue">↓258</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 25일</th>
+							<td><span class="upDown">397</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,709</span>
+								
+									
+									
+									<font color = "blue">↓94</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,837</span>
+								
+									
+									
+									<font color = "blue">↓113</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,989</span>
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 24일</th>
+							<td><span class="upDown">405</span>
+								
+									
+									
+									<font color = "blue">↓25</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,803</span>
+								
+									
+									
+									<font color = "blue">↓290</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,950</span>
+								
+									
+									
+									<font color = "blue">↓295</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">23,020</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 23일</th>
+							<td><span class="upDown">430</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,093</span>
+								
+									
+									<font color = "red">↑19</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,245</span>
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">23,020</span>
+								
+									
+									<font color = "red">↑142</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 20일</th>
+							<td><span class="upDown">428</span>
+								
+									
+									
+									<font color = "blue">↓27</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,074</span>
+								
+									
+									
+									<font color = "blue">↓319</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,233</span>
+								
+									
+									
+									<font color = "blue">↓313</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,878</span>
+								
+									
+									<font color = "red">↑131</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 19일</th>
+							<td><span class="upDown">455</span>
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,393</span>
+								
+									
+									
+									<font color = "blue">↓178</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,546</span>
+								
+									
+									
+									<font color = "blue">↓175</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,747</span>
+								
+									
+									<font color = "red">↑160</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 18일</th>
+							<td><span class="upDown">470</span>
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,571</span>
+								
+									
+									<font color = "red">↑72</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,721</span>
+								
+									
+									<font color = "red">↑57</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,587</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 17일</th>
+							<td><span class="upDown">464</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,499</span>
+								
+									
+									
+									<font color = "blue">↓95</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,664</span>
+								
+									
+									
+									<font color = "blue">↓63</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,587</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 16일</th>
+							<td><span class="upDown">472</span>
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,594</span>
+								
+									
+									
+									<font color = "blue">↓175</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,727</span>
+								
+									
+									
+									<font color = "blue">↓286</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,593</span>
+								
+									
+									<font color = "red">↑36</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 13일</th>
+							<td><span class="upDown">487</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,769</span>
+								
+									
+									
+									<font color = "blue">↓136</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">6,013</span>
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,557</span>
+								
+									
+									<font color = "red">↑55</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 12일</th>
+							<td><span class="upDown">498</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,905</span>
+								
+									
+									
+									<font color = "blue">↓17</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,996</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,502</span>
+								
+									
+									<font color = "red">↑207</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 11일</th>
+							<td><span class="upDown">500</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,922</span>
+								
+									
+									<font color = "red">↑19</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">6,008</span>
+								
+									
+									<font color = "red">↑37</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,295</span>
+								
+									
+									<font color = "red">↑100</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 10일</th>
+							<td><span class="upDown">498</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,903</span>
+								
+									
+									
+									<font color = "blue">↓113</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,971</span>
+								
+									
+									
+									<font color = "blue">↓138</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,195</span>
+								
+									
+									<font color = "red">↑51</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 09일</th>
+							<td><span class="upDown">508</span>
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">6,016</span>
+								
+									
+									<font color = "red">↑231</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">6,109</span>
+								
+									
+									<font color = "red">↑167</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,144</span>
+								
+									
+									<font color = "red">↑115</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 06일</th>
+							<td><span class="upDown">488</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,785</span>
+								
+									
+									
+									<font color = "blue">↓45</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,942</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">22,029</span>
+								
+									
+									<font color = "red">↑442</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 05일</th>
+							<td><span class="upDown">492</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,830</span>
+								
+									
+									<font color = "red">↑36</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,954</span>
+								
+									
+									<font color = "red">↑47</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">21,587</span>
+								
+									
+									<font color = "red">↑776</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 04일</th>
+							<td><span class="upDown">489</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,794</span>
+								
+									
+									
+									<font color = "blue">↓49</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,907</span>
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,811</span>
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 03일</th>
+							<td><span class="upDown">493</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">5,843</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,875</span>
+								
+									
+									
+									<font color = "blue">↓55</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,789</span>
+								
+									
+									<font color = "red">↑36</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 02일</th>
+							<td><span class="upDown">493</span>
+								
+									
+									<font color = "red">↑28</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,845</span>
+								
+									
+									<font color = "red">↑328</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,930</span>
+								
+									
+									<font color = "red">↑252</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,753</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 29일</th>
+							<td><span class="upDown">465</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,517</span>
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,678</span>
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,753</span>
+								
+									
+									<font color = "red">↑24</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 28일</th>
+							<td><span class="upDown">464</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,495</span>
+								
+									
+									<font color = "red">↑11</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,661</span>
+								
+									
+									<font color = "red">↑37</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,729</span>
+								
+									
+									
+									<font color = "blue">↓267</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 27일</th>
+							<td><span class="upDown">463</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,484</span>
+								
+									
+									
+									<font color = "blue">↓68</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,624</span>
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,996</span>
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 26일</th>
+							<td><span class="upDown">468</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,552</span>
+								
+									
+									
+									<font color = "blue">↓140</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,661</span>
+								
+									
+									
+									<font color = "blue">↓152</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,964</span>
+								
+									
+									<font color = "red">↑42</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 25일</th>
+							<td><span class="upDown">480</span>
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,692</span>
+								
+									
+									<font color = "red">↑169</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,813</span>
+								
+									
+									<font color = "red">↑132</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,922</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 22일</th>
+							<td><span class="upDown">466</span>
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,523</span>
+								
+									
+									<font color = "red">↑94</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,681</span>
+								
+									
+									<font color = "red">↑132</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,927</span>
+								
+									
+									<font color = "red">↑456</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 21일</th>
+							<td><span class="upDown">458</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,429</span>
+								
+									
+									<font color = "red">↑45</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,549</span>
+								
+									
+									<font color = "red">↑43</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">20,471</span>
+								
+									
+									<font color = "red">↑871</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 20일</th>
+							<td><span class="upDown">454</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,384</span>
+								
+									
+									
+									<font color = "blue">↓65</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,506</span>
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">19,600</span>
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 19일</th>
+							<td><span class="upDown">460</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,449</span>
+								
+									
+									<font color = "red">↑47</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,539</span>
+								
+									
+									<font color = "red">↑25</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">19,587</span>
+								
+									
+									<font color = "red">↑127</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 18일</th>
+							<td><span class="upDown">456</span>
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,402</span>
+								
+									
+									<font color = "red">↑121</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,514</span>
+								
+									
+									<font color = "red">↑74</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">19,460</span>
+								
+									
+									<font color = "red">↑262</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 15일</th>
+							<td><span class="upDown">446</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,281</span>
+								
+									
+									
+									<font color = "blue">↓28</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,440</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">19,198</span>
+								
+									
+									<font color = "red">↑171</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 14일</th>
+							<td><span class="upDown">448</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">5,309</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">5,451</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">19,027</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 13일</th>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 12일</th>
+							<td><span class="upDown">446</span>
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,289</span>
+								
+									
+									
+									<font color = "blue">↓85</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,440</span>
+								
+									
+									
+									<font color = "blue">↓62</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,953</span>
+								
+									
+									<font color = "red">↑33</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 11일</th>
+							<td><span class="upDown">453</span>
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,374</span>
+								
+									
+									<font color = "red">↑283</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,502</span>
+								
+									
+									<font color = "red">↑233</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,920</span>
+								
+									
+									<font color = "red">↑98</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 08일</th>
+							<td><span class="upDown">430</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,091</span>
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,269</span>
+								
+									
+									<font color = "red">↑28</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,822</span>
+								
+									
+									<font color = "red">↑42</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 07일</th>
+							<td><span class="upDown">429</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,085</span>
+								
+									
+									<font color = "red">↑30</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,241</span>
+								
+									
+									<font color = "red">↑96</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,780</span>
+								
+									
+									<font color = "red">↑267</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 05일</th>
+							<td><span class="upDown">426</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">5,055</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">5,145</span>
+								
+									
+									
+									<font color = "blue">↓21</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,513</span>
+								
+									
+									<font color = "red">↑49</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 04일</th>
+							<td><span class="upDown">426</span>
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,055</span>
+								
+									
+									<font color = "red">↑107</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,166</span>
+								
+									
+									<font color = "red">↑54</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,464</span>
+								
+									
+									<font color = "red">↑73</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 01일</th>
+							<td><span class="upDown">417</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,948</span>
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,112</span>
+								
+									
+									<font color = "red">↑77</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,391</span>
+								
+									
+									
+									<font color = "blue">↓22</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 31일</th>
+							<td><span class="upDown">416</span>
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,934</span>
+								
+									
+									<font color = "red">↑81</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,035</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,413</span>
+								
+									
+									
+									<font color = "blue">↓291</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 30일</th>
+							<td><span class="upDown">409</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,853</span>
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,991</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,704</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 29일</th>
+							<td><span class="upDown">411</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,869</span>
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,001</span>
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,704</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 28일</th>
+							<td><span class="upDown">409</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,846</span>
+								
+									
+									
+									<font color = "blue">↓58</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,974</span>
+								
+									
+									
+									<font color = "blue">↓116</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,704</span>
+								
+									
+									
+									<font color = "blue">↓94</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 25일</th>
+							<td><span class="upDown">414</span>
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,904</span>
+								
+									
+									<font color = "red">↑138</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,090</span>
+								
+									
+									<font color = "red">↑153</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,798</span>
+								
+									
+									<font color = "red">↑82</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 24일</th>
+							<td><span class="upDown">402</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,766</span>
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,937</span>
+								
+									
+									<font color = "red">↑66</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,716</span>
+								
+									
+									<font color = "red">↑345</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 23일</th>
+							<td><span class="upDown">405</span>
+								
+									
+									<font color = "red">↑21</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,803</span>
+								
+									
+									<font color = "red">↑247</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,871</span>
+								
+									
+									<font color = "red">↑176</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,371</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 22일</th>
+							<td><span class="upDown">384</span>
+								
+									
+									
+									<font color = "blue">↓28</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,556</span>
+								
+									
+									
+									<font color = "blue">↓330</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,695</span>
+								
+									
+									
+									<font color = "blue">↓237</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 21일</th>
+							<td><span class="upDown">412</span>
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,886</span>
+								
+									
+									<font color = "red">↑192</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,932</span>
+								
+									
+									<font color = "red">↑95</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,422</span>
+								
+									
+									<font color = "red">↑153</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 18일</th>
+							<td><span class="upDown">396</span>
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,694</span>
+								
+									
+									
+									<font color = "blue">↓105</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,837</span>
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,269</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 17일</th>
+							<td><span class="upDown">405</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,799</span>
+								
+									
+									
+									<font color = "blue">↓45</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,893</span>
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,269</span>
+								
+									
+									
+									<font color = "blue">↓160</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 16일</th>
+							<td><span class="upDown">409</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,844</span>
+								
+									
+									
+									<font color = "blue">↓25</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,949</span>
+								
+									
+									<font color = "red">↑21</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,429</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 15일</th>
+							<td><span class="upDown">411</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,869</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,928</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,429</span>
+								
+									
+									
+									<font color = "blue">↓75</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 14일</th>
+							<td><span class="upDown">411</span>
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,867</span>
+								
+									
+									<font color = "red">↑238</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,931</span>
+								
+									
+									<font color = "red">↑170</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,504</span>
+								
+									
+									<font color = "red">↑157</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 11일</th>
+							<td><span class="upDown">391</span>
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,629</span>
+								
+									
+									
+									<font color = "blue">↓230</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,761</span>
+								
+									
+									
+									<font color = "blue">↓155</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,347</span>
+								
+									
+									
+									<font color = "blue">↓22</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 10일</th>
+							<td><span class="upDown">410</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,859</span>
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,916</span>
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,369</span>
+								
+									
+									<font color = "red">↑200</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 09일</th>
+							<td><span class="upDown">409</span>
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,849</span>
+								
+									
+									
+									<font color = "blue">↓82</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,900</span>
+								
+									
+									
+									<font color = "blue">↓112</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,169</span>
+								
+									
+									<font color = "red">↑85</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 08일</th>
+							<td><span class="upDown">416</span>
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,931</span>
+								
+									
+									<font color = "red">↑378</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,012</span>
+								
+									
+									<font color = "red">↑228</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,084</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 07일</th>
+							<td><span class="upDown">384</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,553</span>
+								
+									
+									
+									<font color = "blue">↓138</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,784</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 04일</th>
+							<td><span class="upDown">396</span>
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,691</span>
+								
+									
+									
+									<font color = "blue">↓352</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,740</span>
+								
+									
+									
+									<font color = "blue">↓403</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,922</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 03일</th>
+							<td><span class="upDown">425</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,043</span>
+								
+									
+									<font color = "red">↑55</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,143</span>
+								
+									
+									<font color = "red">↑124</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,878</span>
+								
+									
+									<font color = "red">↑338</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 02일</th>
+							<td><span class="upDown">421</span>
+								
+									
+									<font color = "red">↑35</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,988</span>
+								
+									
+									<font color = "red">↑416</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,019</span>
+								
+									
+									<font color = "red">↑298</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,540</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 01일</th>
+							<td><span class="upDown">386</span>
+								
+									
+									
+									<font color = "blue">↓32</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,572</span>
+								
+									
+									
+									<font color = "blue">↓381</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,721</span>
+								
+									
+									
+									<font color = "blue">↓274</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown"></span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 30일</th>
+							<td><span class="upDown">418</span>
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,953</span>
+								
+									
+									<font color = "red">↑206</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,995</span>
+								
+									
+									<font color = "red">↑159</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,540</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 27일</th>
+							<td><span class="upDown">401</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,747</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,836</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,540</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 26일</th>
+							<td><span class="upDown">401</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,753</span>
+								
+									
+									
+									<font color = "blue">↓75</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,832</span>
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,540</span>
+								
+									
+									
+									<font color = "blue">↓622</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 25일</th>
+							<td><span class="upDown">407</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,828</span>
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,846</span>
+								
+									
+									
+									<font color = "blue">↓41</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,162</span>
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 24일</th>
+							<td><span class="upDown">406</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,811</span>
+								
+									
+									<font color = "red">↑48</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,887</span>
+								
+									
+									<font color = "red">↑67</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,153</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 23일</th>
+							<td><span class="upDown">402</span>
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,763</span>
+								
+									
+									<font color = "red">↑272</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,820</span>
+								
+									
+									<font color = "red">↑157</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,153</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 20일</th>
+							<td><span class="upDown">379</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,491</span>
+								
+									
+									
+									<font color = "blue">↓61</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,663</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,153</span>
+								
+									
+									
+									<font color = "blue">↓123</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 19일</th>
+							<td><span class="upDown">384</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,552</span>
+								
+									
+									<font color = "red">↑38</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,659</span>
+								
+									
+									<font color = "red">↑52</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,276</span>
+								
+									
+									
+									<font color = "blue">↓80</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 18일</th>
+							<td><span class="upDown">381</span>
+								
+									
+									<font color = "red">↑5</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,514</span>
+								
+									
+									<font color = "red">↑62</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,607</span>
+								
+									
+									<font color = "red">↑51</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,356</span>
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 17일</th>
+							<td><span class="upDown">376</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,452</span>
+								
+									
+									<font color = "red">↑29</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,556</span>
+								
+									
+									
+									<font color = "blue">↓34</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,349</span>
+								
+									
+									<font color = "red">↑38</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 16일</th>
+							<td><span class="upDown">373</span>
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,423</span>
+								
+									
+									<font color = "red">↑243</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,590</span>
+								
+									
+									<font color = "red">↑25</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,311</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 13일</th>
+							<td><span class="upDown">353</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,180</span>
+								
+									
+									
+									<font color = "blue">↓120</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,565</span>
+								
+									
+									
+									<font color = "blue">↓78</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,311</span>
+								
+									
+									
+									<font color = "blue">↓38</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 12일</th>
+							<td><span class="upDown">363</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,300</span>
+								
+									
+									
+									<font color = "blue">↓96</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,643</span>
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,349</span>
+								
+									
+									
+									<font color = "blue">↓278</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 11일</th>
+							<td><span class="upDown">371</span>
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,396</span>
+								
+									
+									<font color = "red">↑42</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,629</span>
+								
+									
+									<font color = "red">↑111</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,627</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 10일</th>
+							<td><span class="upDown">367</span>
+								
+									
+									<font color = "red">↑5</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,354</span>
+								
+									
+									<font color = "red">↑64</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,518</span>
+								
+									
+									<font color = "red">↑70</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,633</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 09일</th>
+							<td><span class="upDown">362</span>
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,290</span>
+								
+									
+									<font color = "red">↑148</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,448</span>
+								
+									
+									<font color = "red">↑36</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,589</span>
+								
+									
+									<font color = "red">↑127</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 06일</th>
+							<td><span class="upDown">349</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,142</span>
+								
+									
+									<font color = "red">↑38</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,412</span>
+								
+									
+									<font color = "red">↑36</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,462</span>
+								
+									
+									
+									<font color = "blue">↓182</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 05일</th>
+							<td><span class="upDown">346</span>
+								
+									
+									
+									<font color = "blue">↓17</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,104</span>
+								
+									
+									
+									<font color = "blue">↓204</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,376</span>
+								
+									
+									
+									<font color = "blue">↓123</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,644</span>
+								
+									
+									<font color = "red">↑797</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 04일</th>
+							<td><span class="upDown">363</span>
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,308</span>
+								
+									
+									
+									<font color = "blue">↓13</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,499</span>
+								
+									
+									
+									<font color = "blue">↓71</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,847</span>
+								
+									
+									<font color = "red">↑58</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 03일</th>
+							<td><span class="upDown">365</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,321</span>
+								
+									
+									
+									<font color = "blue">↓119</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,570</span>
+								
+									
+									
+									<font color = "blue">↓62</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,789</span>
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 02일</th>
+							<td><span class="upDown">375</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,440</span>
+								
+									
+									<font color = "red">↑29</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,632</span>
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,771</span>
+								
+									
+									<font color = "red">↑178</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 30일</th>
+							<td><span class="upDown">372</span>
+								
+									
+									
+									<font color = "blue">↓20</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,411</span>
+								
+									
+									
+									<font color = "blue">↓240</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,661</span>
+								
+									
+									
+									<font color = "blue">↓298</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,593</span>
+								
+									
+									
+									<font color = "blue">↓183</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 29일</th>
+							<td><span class="upDown">392</span>
+								
+									
+									
+									<font color = "blue">↓50</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,651</span>
+								
+									
+									
+									<font color = "blue">↓590</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,959</span>
+								
+									
+									
+									<font color = "blue">↓526</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,776</span>
+								
+									
+									
+									<font color = "blue">↓146</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 28일</th>
+							<td><span class="upDown">442</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,241</span>
+								
+									
+									<font color = "red">↑520</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">5,485</span>
+								
+									
+									<font color = "red">↑557</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,922</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 27일</th>
+							<td><span class="upDown">398</span>
+								
+									
+									<font color = "red">↑42</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,721</span>
+								
+									
+									<font color = "red">↑502</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,928</span>
+								
+									
+									<font color = "red">↑588</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,922</span>
+								
+									
+									
+									<font color = "blue">↓47</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 26일</th>
+							<td><span class="upDown">356</span>
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,219</span>
+								
+									
+									<font color = "red">↑264</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,340</span>
+								
+									
+									<font color = "red">↑120</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,969</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 23일</th>
+							<td><span class="upDown">334</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,955</span>
+								
+									
+									
+									<font color = "blue">↓94</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,220</span>
+								
+									
+									
+									<font color = "blue">↓107</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,969</span>
+								
+									
+									
+									<font color = "blue">↓20</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 22일</th>
+							<td><span class="upDown">342</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,049</span>
+								
+									
+									
+									<font color = "blue">↓42</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,327</span>
+								
+									
+									<font color = "red">↑77</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,989</span>
+								
+									
+									<font color = "red">↑31</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 21일</th>
+							<td><span class="upDown">345</span>
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,091</span>
+								
+									
+									<font color = "red">↑193</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,250</span>
+								
+									
+									<font color = "red">↑78</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,958</span>
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 20일</th>
+							<td><span class="upDown">329</span>
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,898</span>
+								
+									
+									
+									<font color = "blue">↓111</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,172</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,938</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 19일</th>
+							<td><span class="upDown">338</span>
+								
+									
+									<font color = "red">↑24</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,009</span>
+								
+									
+									<font color = "red">↑289</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,175</span>
+								
+									
+									<font color = "red">↑197</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,938</span>
+								
+									
+									<font color = "red">↑25</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 16일</th>
+							<td><span class="upDown">314</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,720</span>
+								
+									
+									
+									<font color = "blue">↓95</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,978</span>
+								
+									
+									
+									<font color = "blue">↓99</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,913</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 15일</th>
+							<td><span class="upDown">322</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,815</span>
+								
+									
+									
+									<font color = "blue">↓129</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,077</span>
+								
+									
+									
+									<font color = "blue">↓43</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,913</span>
+								
+									
+									
+									<font color = "blue">↓294</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 14일</th>
+							<td><span class="upDown">333</span>
+								
+									
+									<font color = "red">↑5</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,944</span>
+								
+									
+									<font color = "red">↑60</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,120</span>
+								
+									
+									<font color = "red">↑31</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,207</span>
+								
+									
+									
+									<font color = "blue">↓35</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 13일</th>
+							<td><span class="upDown">328</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,884</span>
+								
+									
+									
+									<font color = "blue">↓103</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,089</span>
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,242</span>
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 12일</th>
+							<td><span class="upDown">336</span>
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,987</span>
+								
+									
+									<font color = "red">↑171</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,118</span>
+								
+									
+									<font color = "red">↑161</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,258</span>
+								
+									
+									
+									<font color = "blue">↓20</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 09일</th>
+							<td><span class="upDown">322</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,816</span>
+								
+									
+									
+									<font color = "blue">↓49</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,957</span>
+								
+									
+									
+									<font color = "blue">↓110</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,278</span>
+								
+									
+									<font color = "red">↑82</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 08일</th>
+							<td><span class="upDown">326</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,865</span>
+								
+									
+									
+									<font color = "blue">↓126</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,067</span>
+								
+									
+									
+									<font color = "blue">↓81</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,196</span>
+								
+									
+									<font color = "red">↑380</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 07일</th>
+							<td><span class="upDown">337</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">3,991</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,148</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,816</span>
+								
+									
+									<font color = "red">↑45</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 06일</th>
+							<td><span class="upDown">337</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,995</span>
+								
+									
+									
+									<font color = "blue">↓49</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,147</span>
+								
+									
+									
+									<font color = "blue">↓65</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,771</span>
+								
+									
+									
+									<font color = "blue">↓229</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 05일</th>
+							<td><span class="upDown">341</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,044</span>
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,212</span>
+								
+									
+									
+									<font color = "blue">↓129</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,000</span>
+								
+									
+									<font color = "red">↑331</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 02일</th>
+							<td><span class="upDown">344</span>
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,075</span>
+								
+									
+									<font color = "red">↑196</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,341</span>
+								
+									
+									<font color = "red">↑317</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,669</span>
+								
+									
+									
+									<font color = "blue">↓1,298</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 28일</th>
+							<td><span class="upDown">327</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,879</span>
+								
+									
+									
+									<font color = "blue">↓135</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,024</span>
+								
+									
+									
+									<font color = "blue">↓171</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,967</span>
+								
+									
+									<font color = "red">↑171</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 27일</th>
+							<td><span class="upDown">339</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,014</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,195</span>
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,796</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 26일</th>
+							<td><span class="upDown">339</span>
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,018</span>
+								
+									
+									<font color = "red">↑275</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,163</span>
+								
+									
+									<font color = "red">↑117</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,802</span>
+								
+									
+									<font color = "red">↑286</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 23일</th>
+							<td><span class="upDown">316</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,743</span>
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,046</span>
+								
+									
+									<font color = "red">↑96</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,516</span>
+								
+									
+									
+									<font color = "blue">↓68</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 22일</th>
+							<td><span class="upDown">315</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,731</span>
+								
+									
+									
+									<font color = "blue">↓61</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,950</span>
+								
+									
+									<font color = "red">↑44</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,584</span>
+								
+									
+									<font color = "red">↑62</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 21일</th>
+							<td><span class="upDown">320</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,792</span>
+								
+									
+									
+									<font color = "blue">↓90</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,906</span>
+								
+									
+									
+									<font color = "blue">↓101</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,522</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 20일</th>
+							<td><span class="upDown">328</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,882</span>
+								
+									
+									
+									<font color = "blue">↓80</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,007</span>
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,522</span>
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 19일</th>
+							<td><span class="upDown">334</span>
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,962</span>
+								
+									
+									<font color = "red">↑164</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,997</span>
+								
+									
+									<font color = "red">↑116</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,504</span>
+								
+									
+									<font color = "red">↑940</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 13일</th>
+							<td><span class="upDown">320</span>
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,798</span>
+								
+									
+									
+									<font color = "blue">↓390</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,881</span>
+								
+									
+									
+									<font color = "blue">↓412</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,564</span>
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 12일</th>
+							<td><span class="upDown">353</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,188</span>
+								
+									
+									
+									<font color = "blue">↓65</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,293</span>
+								
+									
+									
+									<font color = "blue">↓144</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,576</span>
+								
+									
+									
+									<font color = "blue">↓117</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 09일</th>
+							<td><span class="upDown">359</span>
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,253</span>
+								
+									
+									
+									<font color = "blue">↓109</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,437</span>
+								
+									
+									
+									<font color = "blue">↓125</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,693</span>
+								
+									
+									<font color = "red">↑53</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 08일</th>
+							<td><span class="upDown">368</span>
+								
+									
+									
+									<font color = "blue">↓17</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,362</span>
+								
+									
+									
+									<font color = "blue">↓198</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,562</span>
+								
+									
+									
+									<font color = "blue">↓72</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,640</span>
+								
+									
+									
+									<font color = "blue">↓322</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 07일</th>
+							<td><span class="upDown">385</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,560</span>
+								
+									
+									
+									<font color = "blue">↓64</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,634</span>
+								
+									
+									
+									<font color = "blue">↓121</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,962</span>
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 06일</th>
+							<td><span class="upDown">390</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,624</span>
+								
+									
+									
+									<font color = "blue">↓48</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,755</span>
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,971</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 05일</th>
+							<td><span class="upDown">394</span>
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,672</span>
+								
+									
+									<font color = "red">↑324</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,811</span>
+								
+									
+									<font color = "red">↑220</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,971</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 02일</th>
+							<td><span class="upDown">367</span>
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,348</span>
+								
+									
+									<font color = "red">↑75</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,591</span>
+								
+									
+									<font color = "red">↑59</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,971</span>
+								
+									
+									<font color = "red">↑167</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 01일</th>
+							<td><span class="upDown">361</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,273</span>
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,532</span>
+								
+									
+									<font color = "red">↑85</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,804</span>
+								
+									
+									<font color = "red">↑542</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 31일</th>
+							<td><span class="upDown">360</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,267</span>
+								
+									
+									<font color = "red">↑21</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,447</span>
+								
+									
+									<font color = "red">↑73</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,262</span>
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 30일</th>
+							<td><span class="upDown">358</span>
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,246</span>
+								
+									
+									<font color = "red">↑88</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,374</span>
+								
+									
+									<font color = "red">↑55</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,276</span>
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 29일</th>
+							<td><span class="upDown">351</span>
+								
+									
+									<font color = "red">↑26</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,158</span>
+								
+									
+									<font color = "red">↑300</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,319</span>
+								
+									
+									<font color = "red">↑273</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,313</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 26일</th>
+							<td><span class="upDown">325</span>
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,858</span>
+								
+									
+									
+									<font color = "blue">↓88</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,046</span>
+								
+									
+									
+									<font color = "blue">↓83</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,313</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 25일</th>
+							<td><span class="upDown">333</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,946</span>
+								
+									
+									
+									<font color = "blue">↓69</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,129</span>
+								
+									
+									<font color = "red">↑26</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,313</span>
+								
+									
+									
+									<font color = "blue">↓600</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 24일</th>
+							<td><span class="upDown">339</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,015</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,103</span>
+								
+									
+									
+									<font color = "blue">↓13</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,913</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 23일</th>
+							<td><span class="upDown">339</span>
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,014</span>
+								
+									
+									<font color = "red">↑26</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,116</span>
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,913</span>
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 22일</th>
+							<td><span class="upDown">336</span>
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,988</span>
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,104</span>
+								
+									
+									
+									<font color = "blue">↓35</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,922</span>
+								
+									
+									<font color = "red">↑49</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 19일</th>
+							<td><span class="upDown">335</span>
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,972</span>
+								
+									
+									<font color = "red">↑31</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,139</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,873</span>
+								
+									
+									<font color = "red">↑33</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 18일</th>
+							<td><span class="upDown">333</span>
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,941</span>
+								
+									
+									
+									<font color = "blue">↓21</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,150</span>
+								
+									
+									<font color = "red">↑122</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,840</span>
+								
+									
+									<font color = "red">↑217</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 17일</th>
+							<td><span class="upDown">334</span>
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,962</span>
+								
+									
+									
+									<font color = "blue">↓58</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,028</span>
+								
+									
+									
+									<font color = "blue">↓129</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,623</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 16일</th>
+							<td><span class="upDown">339</span>
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,020</span>
+								
+									
+									
+									<font color = "blue">↓66</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,157</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,623</span>
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 15일</th>
+							<td><span class="upDown">345</span>
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,086</span>
+								
+									
+									<font color = "red">↑272</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,160</span>
+								
+									
+									<font color = "red">↑123</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,630</span>
+								
+									
+									<font color = "red">↑322</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 12일</th>
+							<td><span class="upDown">322</span>
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,814</span>
+								
+									
+									
+									<font color = "blue">↓229</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,037</span>
+								
+									
+									
+									<font color = "blue">↓179</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,308</span>
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 11일</th>
+							<td><span class="upDown">341</span>
+								
+									
+									
+									<font color = "blue">↓10</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,043</span>
+								
+									
+									
+									<font color = "blue">↓119</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,216</span>
+								
+									
+									
+									<font color = "blue">↓67</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">17,286</span>
+								
+									
+									
+									<font color = "blue">↓1,290</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 10일</th>
+							<td><span class="upDown">351</span>
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,162</span>
+								
+									
+									<font color = "red">↑83</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,283</span>
+								
+									
+									<font color = "red">↑38</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,576</span>
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 09일</th>
+							<td><span class="upDown">344</span>
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,079</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,245</span>
+								
+									
+									<font color = "red">↑82</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,558</span>
+								
+									
+									
+									<font color = "blue">↓26</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 08일</th>
+							<td><span class="upDown">345</span>
+								
+									
+									<font color = "red">↑15</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,090</span>
+								
+									
+									<font color = "red">↑173</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,163</span>
+								
+									
+									<font color = "red">↑77</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,584</span>
+								
+									
+									<font color = "red">↑51</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 05일</th>
+							<td><span class="upDown">330</span>
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,917</span>
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,086</span>
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,533</span>
+								
+									
+									<font color = "red">↑160</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 04일</th>
+							<td><span class="upDown">331</span>
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">3,920</span>
+								
+									
+									
+									<font color = "blue">↓129</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,064</span>
+								
+									
+									
+									<font color = "blue">↓93</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,373</span>
+								
+									
+									<font color = "red">↑142</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 03일</th>
+							<td><span class="upDown">342</span>
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,049</span>
+								
+									
+									
+									<font color = "blue">↓55</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">4,157</span>
+								
+									
+									
+									<font color = "blue">↓76</font>
+									
+									
+								
+							</td>
+							<td><span class="upDown">18,231</span>
+								
+									
+									
+									<font color = "blue">↓22</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 02일</th>
+							<td><span class="upDown">346</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,104</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">4,233</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td><span class="upDown">18,253</span>
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+					</tbody>
+				</table>
+</div>
+		<!-- 공통 hidden 변수 시작 -->
+		<input type="hidden" name="dmlType" id="dmlType" value="" />
+		<!-- 공통 hidden 변수 끝-->			
+	</form>
+</body>
+</html>

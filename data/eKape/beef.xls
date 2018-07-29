@@ -1,0 +1,10741 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ko">
+<head>
+<title>eKAPEPIA 축산유통종합정보센터</title>
+
+	
+    <!-- 엑셀 다운로드 파일의 경우 headlibs 인크루드 앖음 -->
+    
+    
+
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <form id="frm" name="frm" method="post">
+		<style>
+    br {mso-data-Placement:Same-cell}
+</style>
+<div class="sub_content price_content price_sub_content">
+	<br/><b>유통단계 가격동향(소): 2018년 07월 28일 (토) 22:19:59</b>
+	<div class="calendar_wrap">    
+		<div>
+			<label for="whole">조회기간 : 20180101 ~ 20180728</label>
+		</div>
+	</div>
+				<table class="data_table micro_table" border ="1" summary="가격·통계 유통단계 가격동향 소(쇠고기)에 대한 구분, 산지가격, 도매가격, 소비자가격을 나타낸 표">
+					<caption></caption>
+					<colgroup>
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+						<col width="12.5%" />
+					</colgroup>
+					<thead>
+						<tr>
+							<th scope="col" rowspan="3" class="first line">구분</th>
+							<th scope="col" colspan="3">산지가격</th>
+							<th scope="col" colspan="3">도매가격</th>
+							<th scope="col">소비자가격</th>
+						</tr>
+						<tr>
+							<th scope="col" colspan="3">가축시장 경매가격<br />(천원/마리)</th>
+							<th scope="col" colspan="2">지육가격(한우)<br />(원/kg)</th>
+							<th scope="col">부분육가격<br />(한우, 등심)<br />(원/kg)</th>
+							<th scope="col">한우, 등심<br />(원/kg)</th>
+						</tr>
+						<tr class="tit_last">
+							<th scope="col">암송아지<br />(6~7개월)</th>
+							<th scope="col">숫송아지<br />(6~7개월)</th>
+							<th scope="col">농가수취가격<br />(600kg)</th>
+							<th scope="col">평균</th>
+							<th scope="col">1등급</th>
+							<th scope="col">1등급</th>
+							<th scope="col">1등급</th>
+						</tr>
+					</thead>
+					<tbody>
+					
+						<tr>
+							<th scope="row" class="first">07월 27일</th>
+							<td>
+								3,032
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,962
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,175
+								
+									
+									
+									<font color = "blue">↓109</font>
+									
+									
+								
+							</td>
+							<td>
+								17,240
+								
+									
+									
+									<font color = "blue">↓302</font>
+									
+									
+								
+							</td>
+							<td>
+								17,306
+								
+									
+									
+									<font color = "blue">↓283</font>
+									
+									
+								
+							</td>
+							<td>
+								57,366
+								
+									
+									<font color = "red">↑1,833</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,278
+								
+									
+									
+									<font color = "blue">↓86</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 26일</th>
+							<td>
+								3,032
+								
+									
+									
+									<font color = "blue">↓24</font>
+									
+									
+								
+							</td>
+							<td>
+								3,962
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,284
+								
+									
+									<font color = "red">↑82</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,542
+								
+									
+									<font color = "red">↑227</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,589
+								
+									
+									<font color = "red">↑220</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,533
+								
+									
+									<font color = "red">↑1,192</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,364
+								
+									
+									
+									<font color = "blue">↓2,207</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 25일</th>
+							<td>
+								3,056
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								3,954
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								6,202
+								
+									
+									
+									<font color = "blue">↓62</font>
+									
+									
+								
+							</td>
+							<td>
+								17,315
+								
+									
+									
+									<font color = "blue">↓173</font>
+									
+									
+								
+							</td>
+							<td>
+								17,369
+								
+									
+									
+									<font color = "blue">↓176</font>
+									
+									
+								
+							</td>
+							<td>
+								54,341
+								
+									
+									
+									<font color = "blue">↓183</font>
+									
+									
+								
+							</td>
+							<td>
+								80,571
+								
+									
+									
+									<font color = "blue">↓458</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 24일</th>
+							<td>
+								3,067
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,962
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								6,264
+								
+									
+									<font color = "red">↑675</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,488
+								
+									
+									<font color = "red">↑1,885</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,545
+								
+									
+									<font color = "red">↑305</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,524
+								
+									
+									<font color = "red">↑1,964</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,029
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 23일</th>
+							<td>
+								3,063
+								
+									
+									
+									<font color = "blue">↓48</font>
+									
+									
+								
+							</td>
+							<td>
+								3,971
+								
+									
+									
+									<font color = "blue">↓65</font>
+									
+									
+								
+							</td>
+							<td>
+								5,589
+								
+									
+									
+									<font color = "blue">↓516</font>
+									
+									
+								
+							</td>
+							<td>
+								15,603
+								
+									
+									
+									<font color = "blue">↓1,441</font>
+									
+									
+								
+							</td>
+							<td>
+								17,240
+								
+									
+									
+									<font color = "blue">↓253</font>
+									
+									
+								
+							</td>
+							<td>
+								52,560
+								
+									
+									
+									<font color = "blue">↓1,459</font>
+									
+									
+								
+							</td>
+							<td>
+								81,029
+								
+									
+									<font color = "red">↑343</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 20일</th>
+							<td>
+								3,111
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,036
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								6,105
+								
+									
+									
+									<font color = "blue">↓82</font>
+									
+									
+								
+							</td>
+							<td>
+								17,044
+								
+									
+									
+									<font color = "blue">↓228</font>
+									
+									
+								
+							</td>
+							<td>
+								17,493
+								
+									
+									
+									<font color = "blue">↓91</font>
+									
+									
+								
+							</td>
+							<td>
+								54,019
+								
+									
+									
+									<font color = "blue">↓131</font>
+									
+									
+								
+							</td>
+							<td>
+								80,686
+								
+									
+									
+									<font color = "blue">↓200</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 19일</th>
+							<td>
+								3,102
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								4,039
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								6,187
+								
+									
+									<font color = "red">↑52</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,272
+								
+									
+									<font color = "red">↑144</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,584
+								
+									
+									<font color = "red">↑111</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,150
+								
+									
+									
+									<font color = "blue">↓143</font>
+									
+									
+								
+							</td>
+							<td>
+								80,886
+								
+									
+									<font color = "red">↑1,886</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 18일</th>
+							<td>
+								3,105
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,048
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,135
+								
+									
+									
+									<font color = "blue">↓124</font>
+									
+									
+								
+							</td>
+							<td>
+								17,128
+								
+									
+									
+									<font color = "blue">↓346</font>
+									
+									
+								
+							</td>
+							<td>
+								17,473
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td>
+								54,293
+								
+									
+									
+									<font color = "blue">↓1,912</font>
+									
+									
+								
+							</td>
+							<td>
+								79,000
+								
+									
+									
+									<font color = "blue">↓278</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 17일</th>
+							<td>
+								3,099
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td>
+								4,040
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,259
+								
+									
+									<font color = "red">↑603</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,474
+								
+									
+									<font color = "red">↑1,683</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,529
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								56,205
+								
+									
+									<font color = "red">↑1,748</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,278
+								
+									
+									<font color = "red">↑278</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 16일</th>
+							<td>
+								3,100
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td>
+								4,030
+								
+									
+									
+									<font color = "blue">↓17</font>
+									
+									
+								
+							</td>
+							<td>
+								5,656
+								
+									
+									
+									<font color = "blue">↓448</font>
+									
+									
+								
+							</td>
+							<td>
+								15,791
+								
+									
+									
+									<font color = "blue">↓1,250</font>
+									
+									
+								
+							</td>
+							<td>
+								17,544
+								
+									
+									
+									<font color = "blue">↓151</font>
+									
+									
+								
+							</td>
+							<td>
+								54,457
+								
+									
+									
+									<font color = "blue">↓1,755</font>
+									
+									
+								
+							</td>
+							<td>
+								79,000
+								
+									
+									
+									<font color = "blue">↓278</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 13일</th>
+							<td>
+								3,104
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								4,047
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								6,104
+								
+									
+									
+									<font color = "blue">↓111</font>
+									
+									
+								
+							</td>
+							<td>
+								17,041
+								
+									
+									
+									<font color = "blue">↓309</font>
+									
+									
+								
+							</td>
+							<td>
+								17,695
+								
+									
+									<font color = "red">↑180</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,212
+								
+									
+									
+									<font color = "blue">↓899</font>
+									
+									
+								
+							</td>
+							<td>
+								79,278
+								
+									
+									
+									<font color = "blue">↓583</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 12일</th>
+							<td>
+								3,107
+								
+									
+									
+									<font color = "blue">↓25</font>
+									
+									
+								
+							</td>
+							<td>
+								4,059
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								6,215
+								
+									
+									
+									<font color = "blue">↓74</font>
+									
+									
+								
+							</td>
+							<td>
+								17,350
+								
+									
+									
+									<font color = "blue">↓207</font>
+									
+									
+								
+							</td>
+							<td>
+								17,515
+								
+									
+									
+									<font color = "blue">↓237</font>
+									
+									
+								
+							</td>
+							<td>
+								57,111
+								
+									
+									<font color = "red">↑1,106</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,861
+								
+									
+									
+									<font color = "blue">↓3,145</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 11일</th>
+							<td>
+								3,132
+								
+									
+									<font color = "red">↑5</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,088
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,289
+								
+									
+									
+									<font color = "blue">↓159</font>
+									
+									
+								
+							</td>
+							<td>
+								17,557
+								
+									
+									
+									<font color = "blue">↓444</font>
+									
+									
+								
+							</td>
+							<td>
+								17,752
+								
+									
+									
+									<font color = "blue">↓159</font>
+									
+									
+								
+							</td>
+							<td>
+								56,005
+								
+									
+									
+									<font color = "blue">↓552</font>
+									
+									
+								
+							</td>
+							<td>
+								83,006
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 10일</th>
+							<td>
+								3,127
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,071
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,448
+								
+									
+									<font color = "red">↑537</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,001
+								
+									
+									<font color = "red">↑1,498</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,911
+								
+									
+									<font color = "red">↑159</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,557
+								
+									
+									<font color = "red">↑4,269</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								83,006
+								
+									
+									<font color = "red">↑257</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 09일</th>
+							<td>
+								3,111
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td>
+								4,049
+								
+									
+									
+									<font color = "blue">↓26</font>
+									
+									
+								
+							</td>
+							<td>
+								5,911
+								
+									
+									
+									<font color = "blue">↓576</font>
+									
+									
+								
+							</td>
+							<td>
+								16,503
+								
+									
+									
+									<font color = "blue">↓1,608</font>
+									
+									
+								
+							</td>
+							<td>
+								17,752
+								
+									
+									
+									<font color = "blue">↓378</font>
+									
+									
+								
+							</td>
+							<td>
+								52,288
+								
+									
+									
+									<font color = "blue">↓3,872</font>
+									
+									
+								
+							</td>
+							<td>
+								82,749
+								
+									
+									
+									<font color = "blue">↓201</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 06일</th>
+							<td>
+								3,144
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td>
+								4,075
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td>
+								6,487
+								
+									
+									<font color = "red">↑88</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,111
+								
+									
+									<font color = "red">↑247</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,130
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,160
+								
+									
+									
+									<font color = "blue">↓366</font>
+									
+									
+								
+							</td>
+							<td>
+								82,950
+								
+									
+									
+									<font color = "blue">↓250</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 05일</th>
+							<td>
+								3,163
+								
+									
+									
+									<font color = "blue">↓18</font>
+									
+									
+								
+							</td>
+							<td>
+								4,094
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td>
+								6,399
+								
+									
+									<font color = "red">↑54</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,864
+								
+									
+									<font color = "red">↑151</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,120
+								
+									
+									<font color = "red">↑57</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,526
+								
+									
+									
+									<font color = "blue">↓892</font>
+									
+									
+								
+							</td>
+							<td>
+								83,200
+								
+									
+									<font color = "red">↑2,192</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 04일</th>
+							<td>
+								3,181
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								4,108
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,345
+								
+									
+									
+									<font color = "blue">↓51</font>
+									
+									
+								
+							</td>
+							<td>
+								17,713
+								
+									
+									
+									<font color = "blue">↓144</font>
+									
+									
+								
+							</td>
+							<td>
+								18,063
+								
+									
+									<font color = "red">↑69</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								57,418
+								
+									
+									<font color = "red">↑1,207</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,008
+								
+									
+									<font color = "red">↑892</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 03일</th>
+							<td>
+								3,196
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,095
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,396
+								
+									
+									<font color = "red">↑633</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,857
+								
+									
+									<font color = "red">↑1,767</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,994
+								
+									
+									<font color = "red">↑1,184</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,211
+								
+									
+									
+									<font color = "blue">↓122</font>
+									
+									
+								
+							</td>
+							<td>
+								80,116
+								
+									
+									<font color = "red">↑594</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">07월 02일</th>
+							<td>
+								3,196
+								
+									
+									
+									<font color = "blue">↓26</font>
+									
+									
+								
+							</td>
+							<td>
+								4,085
+								
+									
+									<font color = "red">↑24</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,763
+								
+									
+									
+									<font color = "blue">↓319</font>
+									
+									
+								
+							</td>
+							<td>
+								16,090
+								
+									
+									
+									<font color = "blue">↓890</font>
+									
+									
+								
+							</td>
+							<td>
+								16,810
+								
+									
+									
+									<font color = "blue">↓779</font>
+									
+									
+								
+							</td>
+							<td>
+								56,333
+								
+									
+									
+									<font color = "blue">↓2,414</font>
+									
+									
+								
+							</td>
+							<td>
+								79,522
+								
+									
+									<font color = "red">↑653</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 29일</th>
+							<td>
+								3,222
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td>
+								4,061
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								6,082
+								
+									
+									
+									<font color = "blue">↓227</font>
+									
+									
+								
+							</td>
+							<td>
+								16,980
+								
+									
+									
+									<font color = "blue">↓633</font>
+									
+									
+								
+							</td>
+							<td>
+								17,589
+								
+									
+									
+									<font color = "blue">↓197</font>
+									
+									
+								
+							</td>
+							<td>
+								58,747
+								
+									
+									<font color = "red">↑1,461</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,869
+								
+									
+									<font color = "red">↑1,483</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 28일</th>
+							<td>
+								3,228
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,069
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td>
+								6,309
+								
+									
+									
+									<font color = "blue">↓62</font>
+									
+									
+								
+							</td>
+							<td>
+								17,613
+								
+									
+									
+									<font color = "blue">↓174</font>
+									
+									
+								
+							</td>
+							<td>
+								17,786
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								57,286
+								
+									
+									
+									<font color = "blue">↓811</font>
+									
+									
+								
+							</td>
+							<td>
+								77,386
+								
+									
+									
+									<font color = "blue">↓438</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 27일</th>
+							<td>
+								3,219
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								4,076
+								
+									
+									
+									<font color = "blue">↓46</font>
+									
+									
+								
+							</td>
+							<td>
+								6,371
+								
+									
+									
+									<font color = "blue">↓134</font>
+									
+									
+								
+							</td>
+							<td>
+								17,787
+								
+									
+									
+									<font color = "blue">↓374</font>
+									
+									
+								
+							</td>
+							<td>
+								17,797
+								
+									
+									
+									<font color = "blue">↓296</font>
+									
+									
+								
+							</td>
+							<td>
+								58,097
+								
+									
+									
+									<font color = "blue">↓250</font>
+									
+									
+								
+							</td>
+							<td>
+								77,824
+								
+									
+									
+									<font color = "blue">↓562</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 26일</th>
+							<td>
+								3,228
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								4,122
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								6,505
+								
+									
+									<font color = "red">↑158</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,161
+								
+									
+									<font color = "red">↑443</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,093
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								58,347
+								
+									
+									
+									<font color = "blue">↓1,589</font>
+									
+									
+								
+							</td>
+							<td>
+								78,386
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 25일</th>
+							<td>
+								3,240
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								4,134
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,347
+								
+									
+									
+									<font color = "blue">↓99</font>
+									
+									
+								
+							</td>
+							<td>
+								17,718
+								
+									
+									
+									<font color = "blue">↓278</font>
+									
+									
+								
+							</td>
+							<td>
+								18,105
+								
+									
+									
+									<font color = "blue">↓245</font>
+									
+									
+								
+							</td>
+							<td>
+								59,936
+								
+									
+									<font color = "red">↑1,455</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,386
+								
+									
+									
+									<font color = "blue">↓1,385</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 22일</th>
+							<td>
+								3,249
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								4,121
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,446
+								
+									
+									
+									<font color = "blue">↓65</font>
+									
+									
+								
+							</td>
+							<td>
+								17,996
+								
+									
+									
+									<font color = "blue">↓182</font>
+									
+									
+								
+							</td>
+							<td>
+								18,350
+								
+									
+									
+									<font color = "blue">↓43</font>
+									
+									
+								
+							</td>
+							<td>
+								58,481
+								
+									
+									
+									<font color = "blue">↓1,577</font>
+									
+									
+								
+							</td>
+							<td>
+								79,771
+								
+									
+									
+									<font color = "blue">↓269</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 21일</th>
+							<td>
+								3,251
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								4,120
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,511
+								
+									
+									
+									<font color = "blue">↓55</font>
+									
+									
+								
+							</td>
+							<td>
+								18,178
+								
+									
+									
+									<font color = "blue">↓153</font>
+									
+									
+								
+							</td>
+							<td>
+								18,393
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								60,058
+								
+									
+									
+									<font color = "blue">↓941</font>
+									
+									
+								
+							</td>
+							<td>
+								80,040
+								
+									
+									<font color = "red">↑684</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 20일</th>
+							<td>
+								3,262
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,117
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,566
+								
+									
+									
+									<font color = "blue">↓69</font>
+									
+									
+								
+							</td>
+							<td>
+								18,331
+								
+									
+									
+									<font color = "blue">↓191</font>
+									
+									
+								
+							</td>
+							<td>
+								18,373
+								
+									
+									
+									<font color = "blue">↓122</font>
+									
+									
+								
+							</td>
+							<td>
+								60,999
+								
+									
+									<font color = "red">↑2,657</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,356
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 19일</th>
+							<td>
+								3,249
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,113
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td>
+								6,635
+								
+									
+									<font color = "red">↑204</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,522
+								
+									
+									<font color = "red">↑568</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,495
+								
+									
+									<font color = "red">↑652</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								58,342
+								
+									
+									<font color = "red">↑1,785</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,356
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 18일</th>
+							<td>
+								3,242
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td>
+								4,118
+								
+									
+									
+									<font color = "blue">↓28</font>
+									
+									
+								
+							</td>
+							<td>
+								6,431
+								
+									
+									
+									<font color = "blue">↓132</font>
+									
+									
+								
+							</td>
+							<td>
+								17,954
+								
+									
+									
+									<font color = "blue">↓369</font>
+									
+									
+								
+							</td>
+							<td>
+								17,843
+								
+									
+									
+									<font color = "blue">↓777</font>
+									
+									
+								
+							</td>
+							<td>
+								56,557
+								
+									
+									<font color = "red">↑89</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,356
+								
+									
+									<font color = "red">↑427</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 15일</th>
+							<td>
+								3,258
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td>
+								4,146
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,563
+								
+									
+									
+									<font color = "blue">↓41</font>
+									
+									
+								
+							</td>
+							<td>
+								18,323
+								
+									
+									
+									<font color = "blue">↓115</font>
+									
+									
+								
+							</td>
+							<td>
+								18,620
+								
+									
+									<font color = "red">↑76</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,468
+								
+									
+									
+									<font color = "blue">↓800</font>
+									
+									
+								
+							</td>
+							<td>
+								78,929
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 14일</th>
+							<td>
+								3,263
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,140
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,604
+								
+									
+									<font color = "red">↑1,095</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,438
+								
+									
+									<font color = "red">↑3,059</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,544
+								
+									
+									<font color = "red">↑2,354</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								57,268
+								
+									
+									<font color = "red">↑973</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,929
+								
+									
+									
+									<font color = "blue">↓2,355</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 13일</th>
+							<td>
+								3,255
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,139
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								5,509
+								
+									
+									
+									<font color = "blue">↓1,046</font>
+									
+									
+								
+							</td>
+							<td>
+								15,379
+								
+									
+									
+									<font color = "blue">↓2,920</font>
+									
+									
+								
+							</td>
+							<td>
+								16,190
+								
+									
+									
+									<font color = "blue">↓2,179</font>
+									
+									
+								
+							</td>
+							<td>
+								56,295
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								81,284
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 12일</th>
+							<td>
+								3,255
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								4,139
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								6,555
+								
+									
+									<font color = "red">↑1,644</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,299
+								
+									
+									<font color = "red">↑4,590</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,369
+								
+									
+									<font color = "red">↑2,889</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,295
+								
+									
+									
+									<font color = "blue">↓1,322</font>
+									
+									
+								
+							</td>
+							<td>
+								81,284
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 11일</th>
+							<td>
+								3,263
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								4,168
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,911
+								
+									
+									
+									<font color = "blue">↓1,452</font>
+									
+									
+								
+							</td>
+							<td>
+								13,709
+								
+									
+									
+									<font color = "blue">↓4,054</font>
+									
+									
+								
+							</td>
+							<td>
+								15,480
+								
+									
+									
+									<font color = "blue">↓2,483</font>
+									
+									
+								
+							</td>
+							<td>
+								57,617
+								
+									
+									<font color = "red">↑88</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,284
+								
+									
+									<font color = "red">↑100</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 08일</th>
+							<td>
+								3,292
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								4,158
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								6,363
+								
+									
+									
+									<font color = "blue">↓185</font>
+									
+									
+								
+							</td>
+							<td>
+								17,763
+								
+									
+									
+									<font color = "blue">↓518</font>
+									
+									
+								
+							</td>
+							<td>
+								17,963
+								
+									
+									
+									<font color = "blue">↓237</font>
+									
+									
+								
+							</td>
+							<td>
+								57,529
+								
+									
+									<font color = "red">↑677</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,184
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 07일</th>
+							<td>
+								3,304
+								
+									
+									<font color = "red">↑28</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,160
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,548
+								
+									
+									
+									<font color = "blue">↓88</font>
+									
+									
+								
+							</td>
+							<td>
+								18,281
+								
+									
+									
+									<font color = "blue">↓244</font>
+									
+									
+								
+							</td>
+							<td>
+								18,200
+								
+									
+									
+									<font color = "blue">↓263</font>
+									
+									
+								
+							</td>
+							<td>
+								56,852
+								
+									
+									<font color = "red">↑626</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,184
+								
+									
+									<font color = "red">↑1,414</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 05일</th>
+							<td>
+								3,276
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,160
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,636
+								
+									
+									<font color = "red">↑697</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,525
+								
+									
+									<font color = "red">↑1,946</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,463
+								
+									
+									<font color = "red">↑854</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,226
+								
+									
+									<font color = "red">↑2,929</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,770
+								
+									
+									
+									<font color = "blue">↓470</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 04일</th>
+							<td>
+								3,249
+								
+									
+									<font color = "red">↑25</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,144
+								
+									
+									<font color = "red">↑24</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,939
+								
+									
+									
+									<font color = "blue">↓640</font>
+									
+									
+								
+							</td>
+							<td>
+								16,579
+								
+									
+									
+									<font color = "blue">↓1,788</font>
+									
+									
+								
+							</td>
+							<td>
+								17,609
+								
+									
+									
+									<font color = "blue">↓959</font>
+									
+									
+								
+							</td>
+							<td>
+								53,297
+								
+									
+									
+									<font color = "blue">↓4,571</font>
+									
+									
+								
+							</td>
+							<td>
+								80,240
+								
+									
+									<font color = "red">↑682</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">06월 01일</th>
+							<td>
+								3,224
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,120
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,579
+								
+									
+									
+									<font color = "blue">↓34</font>
+									
+									
+								
+							</td>
+							<td>
+								18,367
+								
+									
+									
+									<font color = "blue">↓95</font>
+									
+									
+								
+							</td>
+							<td>
+								18,568
+								
+									
+									
+									<font color = "blue">↓153</font>
+									
+									
+								
+							</td>
+							<td>
+								57,868
+								
+									
+									<font color = "red">↑1,016</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,558
+								
+									
+									<font color = "red">↑761</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 31일</th>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,613
+								
+									
+									<font color = "red">↑102</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,462
+								
+									
+									<font color = "red">↑286</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,721
+								
+									
+									<font color = "red">↑202</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,852
+								
+									
+									<font color = "red">↑1,317</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,797
+								
+									
+									
+									<font color = "blue">↓2,277</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 30일</th>
+							<td>
+								3,221
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,100
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,511
+								
+									
+									
+									<font color = "blue">↓86</font>
+									
+									
+								
+							</td>
+							<td>
+								18,176
+								
+									
+									
+									<font color = "blue">↓241</font>
+									
+									
+								
+							</td>
+							<td>
+								18,519
+								
+									
+									
+									<font color = "blue">↓27</font>
+									
+									
+								
+							</td>
+							<td>
+								55,535
+								
+									
+									<font color = "red">↑463</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,074
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 29일</th>
+							<td>
+								3,221
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								4,100
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,597
+								
+									
+									<font color = "red">↑487</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,417
+								
+									
+									<font color = "red">↑1,359</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,546
+								
+									
+									<font color = "red">↑662</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,072
+								
+									
+									<font color = "red">↑1,310</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,074
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 28일</th>
+							<td>
+								3,230
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,090
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+							<td>
+								6,110
+								
+									
+									
+									<font color = "blue">↓301</font>
+									
+									
+								
+							</td>
+							<td>
+								17,058
+								
+									
+									
+									<font color = "blue">↓839</font>
+									
+									
+								
+							</td>
+							<td>
+								17,884
+								
+									
+									
+									<font color = "blue">↓410</font>
+									
+									
+								
+							</td>
+							<td>
+								53,762
+								
+									
+									
+									<font color = "blue">↓2,565</font>
+									
+									
+								
+							</td>
+							<td>
+								81,074
+								
+									
+									
+									<font color = "blue">↓379</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 25일</th>
+							<td>
+								3,227
+								
+									
+									<font color = "red">↑16</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,121
+								
+									
+									<font color = "red">↑66</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,411
+								
+									
+									
+									<font color = "blue">↓142</font>
+									
+									
+								
+							</td>
+							<td>
+								17,897
+								
+									
+									
+									<font color = "blue">↓396</font>
+									
+									
+								
+							</td>
+							<td>
+								18,294
+								
+									
+									
+									<font color = "blue">↓218</font>
+									
+									
+								
+							</td>
+							<td>
+								56,327
+								
+									
+									
+									<font color = "blue">↓597</font>
+									
+									
+								
+							</td>
+							<td>
+								81,453
+								
+									
+									<font color = "red">↑471</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 24일</th>
+							<td>
+								3,211
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,055
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,553
+								
+									
+									
+									<font color = "blue">↓20</font>
+									
+									
+								
+							</td>
+							<td>
+								18,293
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td>
+								18,512
+								
+									
+									
+									<font color = "blue">↓47</font>
+									
+									
+								
+							</td>
+							<td>
+								56,924
+								
+									
+									<font color = "red">↑297</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,982
+								
+									
+									<font color = "red">↑1,168</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 23일</th>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,573
+								
+									
+									<font color = "red">↑101</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,349
+								
+									
+									<font color = "red">↑282</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,559
+								
+									
+									<font color = "red">↑58</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								56,627
+								
+									
+									<font color = "red">↑1,627</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,814
+								
+									
+									<font color = "red">↑148</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 22일</th>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,472
+								
+									
+									<font color = "red">↑370</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,067
+								
+									
+									<font color = "red">↑1,032</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,501
+								
+									
+									<font color = "red">↑431</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,000
+								
+									
+									
+									<font color = "blue">↓2,878</font>
+									
+									
+								
+							</td>
+							<td>
+								79,666
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 21일</th>
+							<td>
+								3,246
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,041
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,102
+								
+									
+									
+									<font color = "blue">↓490</font>
+									
+									
+								
+							</td>
+							<td>
+								17,035
+								
+									
+									
+									<font color = "blue">↓1,368</font>
+									
+									
+								
+							</td>
+							<td>
+								18,070
+								
+									
+									
+									<font color = "blue">↓614</font>
+									
+									
+								
+							</td>
+							<td>
+								57,878
+								
+									
+									<font color = "red">↑1,992</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,666
+								
+									
+									
+									<font color = "blue">↓92</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 18일</th>
+							<td>
+								3,246
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,041
+								
+									
+									<font color = "red">↑14</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,592
+								
+									
+									
+									<font color = "blue">↓22</font>
+									
+									
+								
+							</td>
+							<td>
+								18,403
+								
+									
+									
+									<font color = "blue">↓62</font>
+									
+									
+								
+							</td>
+							<td>
+								18,684
+								
+									
+									<font color = "red">↑160</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,886
+								
+									
+									<font color = "red">↑179</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,758
+								
+									
+									<font color = "red">↑92</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 17일</th>
+							<td>
+								3,242
+								
+									
+									
+									<font color = "blue">↓30</font>
+									
+									
+								
+							</td>
+							<td>
+								4,027
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								6,614
+								
+									
+									<font color = "red">↑155</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,465
+								
+									
+									<font color = "red">↑433</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,524
+								
+									
+									<font color = "red">↑217</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,707
+								
+									
+									
+									<font color = "blue">↓67</font>
+									
+									
+								
+							</td>
+							<td>
+								79,666
+								
+									
+									
+									<font color = "blue">↓478</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 16일</th>
+							<td>
+								3,272
+								
+									
+									<font color = "red">↑19</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,056
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,459
+								
+									
+									
+									<font color = "blue">↓38</font>
+									
+									
+								
+							</td>
+							<td>
+								18,032
+								
+									
+									
+									<font color = "blue">↓105</font>
+									
+									
+								
+							</td>
+							<td>
+								18,307
+								
+									
+									<font color = "red">↑42</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								55,774
+								
+									
+									<font color = "red">↑2,890</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,144
+								
+									
+									<font color = "red">↑333</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 15일</th>
+							<td>
+								3,253
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								4,039
+								
+									
+									<font color = "red">↑15</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,497
+								
+									
+									<font color = "red">↑899</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,137
+								
+									
+									<font color = "red">↑2,509</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,265
+								
+									
+									<font color = "red">↑809</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,884
+								
+									
+									
+									<font color = "blue">↓1,197</font>
+									
+									
+								
+							</td>
+							<td>
+								79,811
+								
+									
+									
+									<font color = "blue">↓333</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 14일</th>
+							<td>
+								3,268
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,024
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+							<td>
+								5,598
+								
+									
+									
+									<font color = "blue">↓673</font>
+									
+									
+								
+							</td>
+							<td>
+								15,628
+								
+									
+									
+									<font color = "blue">↓1,879</font>
+									
+									
+								
+							</td>
+							<td>
+								17,456
+								
+									
+									
+									<font color = "blue">↓495</font>
+									
+									
+								
+							</td>
+							<td>
+								54,081
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								80,144
+								
+									
+									<font color = "red">↑50</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 11일</th>
+							<td>
+								3,266
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td>
+								4,061
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,271
+								
+									
+									
+									<font color = "blue">↓44</font>
+									
+									
+								
+							</td>
+							<td>
+								17,507
+								
+									
+									
+									<font color = "blue">↓124</font>
+									
+									
+								
+							</td>
+							<td>
+								17,951
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,089
+								
+									
+									
+									<font color = "blue">↓808</font>
+									
+									
+								
+							</td>
+							<td>
+								80,094
+								
+									
+									
+									<font color = "blue">↓156</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 10일</th>
+							<td>
+								3,273
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								4,052
+								
+									
+									<font color = "red">↑19</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,315
+								
+									
+									<font color = "red">↑31</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,631
+								
+									
+									<font color = "red">↑89</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,929
+								
+									
+									<font color = "red">↑103</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,897
+								
+									
+									<font color = "red">↑1,850</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,250
+								
+									
+									<font color = "red">↑855</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 09일</th>
+							<td>
+								3,250
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								4,033
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td>
+								6,284
+								
+									
+									<font color = "red">↑1,347</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,542
+								
+									
+									<font color = "red">↑3,760</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,826
+								
+									
+									<font color = "red">↑1,277</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,047
+								
+									
+									
+									<font color = "blue">↓537</font>
+									
+									
+								
+							</td>
+							<td>
+								79,395
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 08일</th>
+							<td>
+								3,261
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,034
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								4,937
+								
+									
+									
+									<font color = "blue">↓1,147</font>
+									
+									
+								
+							</td>
+							<td>
+								13,782
+								
+									
+									
+									<font color = "blue">↓3,204</font>
+									
+									
+								
+							</td>
+							<td>
+								16,549
+								
+									
+									
+									<font color = "blue">↓677</font>
+									
+									
+								
+							</td>
+							<td>
+								53,584
+								
+									
+									
+									<font color = "blue">↓1,589</font>
+									
+									
+								
+							</td>
+							<td>
+								79,395
+								
+									
+									<font color = "red">↑442</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 07일</th>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,084
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								16,986
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								17,226
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								55,173
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								78,953
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 04일</th>
+							<td>
+								3,255
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,966
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,084
+								
+									
+									
+									<font color = "blue">↓178</font>
+									
+									
+								
+							</td>
+							<td>
+								16,986
+								
+									
+									
+									<font color = "blue">↓495</font>
+									
+									
+								
+							</td>
+							<td>
+								17,226
+								
+									
+									
+									<font color = "blue">↓394</font>
+									
+									
+								
+							</td>
+							<td>
+								55,173
+								
+									
+									<font color = "red">↑2,010</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,953
+								
+									
+									
+									<font color = "blue">↓1,322</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 03일</th>
+							<td>
+								3,255
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								3,966
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,262
+								
+									
+									
+									<font color = "blue">↓82</font>
+									
+									
+								
+							</td>
+							<td>
+								17,481
+								
+									
+									
+									<font color = "blue">↓231</font>
+									
+									
+								
+							</td>
+							<td>
+								17,620
+								
+									
+									
+									<font color = "blue">↓104</font>
+									
+									
+								
+							</td>
+							<td>
+								53,163
+								
+									
+									<font color = "red">↑408</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,275
+								
+									
+									<font color = "red">↑437</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 02일</th>
+							<td>
+								3,257
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,956
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,344
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								17,712
+								
+									
+									
+									<font color = "blue">↓30</font>
+									
+									
+								
+							</td>
+							<td>
+								17,724
+								
+									
+									
+									<font color = "blue">↓98</font>
+									
+									
+								
+							</td>
+							<td>
+								52,755
+								
+									
+									
+									<font color = "blue">↓156</font>
+									
+									
+								
+							</td>
+							<td>
+								79,838
+								
+									
+									<font color = "red">↑841</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">05월 01일</th>
+							<td>
+								3,248
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,936
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,355
+								
+									
+									<font color = "red">↑534</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,742
+								
+									
+									<font color = "red">↑1,491</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,822
+								
+									
+									<font color = "red">↑187</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,911
+								
+									
+									
+									<font color = "blue">↓599</font>
+									
+									
+								
+							</td>
+							<td>
+								78,997
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 30일</th>
+							<td>
+								3,248
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td>
+								3,936
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,821
+								
+									
+									
+									<font color = "blue">↓381</font>
+									
+									
+								
+							</td>
+							<td>
+								16,251
+								
+									
+									
+									<font color = "blue">↓1,062</font>
+									
+									
+								
+							</td>
+							<td>
+								17,635
+								
+									
+									
+									<font color = "blue">↓275</font>
+									
+									
+								
+							</td>
+							<td>
+								53,510
+								
+									
+									<font color = "red">↑365</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,997
+								
+									
+									<font color = "red">↑600</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 27일</th>
+							<td>
+								3,252
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								3,909
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,202
+								
+									
+									
+									<font color = "blue">↓150</font>
+									
+									
+								
+							</td>
+							<td>
+								17,313
+								
+									
+									
+									<font color = "blue">↓419</font>
+									
+									
+								
+							</td>
+							<td>
+								17,910
+								
+									
+									<font color = "red">↑4</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,145
+								
+									
+									<font color = "red">↑394</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,397
+								
+									
+									
+									<font color = "blue">↓1,094</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 26일</th>
+							<td>
+								3,263
+								
+									
+									
+									<font color = "blue">↓27</font>
+									
+									
+								
+							</td>
+							<td>
+								3,905
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td>
+								6,352
+								
+									
+									
+									<font color = "blue">↓95</font>
+									
+									
+								
+							</td>
+							<td>
+								17,732
+								
+									
+									
+									<font color = "blue">↓267</font>
+									
+									
+								
+							</td>
+							<td>
+								17,906
+								
+									
+									
+									<font color = "blue">↓81</font>
+									
+									
+								
+							</td>
+							<td>
+								52,751
+								
+									
+									<font color = "red">↑1,662</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,491
+								
+									
+									
+									<font color = "blue">↓3,267</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 25일</th>
+							<td>
+								3,290
+								
+									
+									<font color = "red">↑30</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,921
+								
+									
+									<font color = "red">↑124</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,447
+								
+									
+									<font color = "red">↑68</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,999
+								
+									
+									<font color = "red">↑191</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,987
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+							<td>
+								51,089
+								
+									
+									
+									<font color = "blue">↓1,659</font>
+									
+									
+								
+							</td>
+							<td>
+								82,758
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 24일</th>
+							<td>
+								3,260
+								
+									
+									<font color = "red">↑3,260</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,797
+								
+									
+									<font color = "red">↑3,797</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,379
+								
+									
+									<font color = "red">↑579</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,808
+								
+									
+									<font color = "red">↑1,615</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,018
+								
+									
+									<font color = "red">↑447</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,748
+								
+									
+									
+									<font color = "blue">↓2,770</font>
+									
+									
+								
+							</td>
+							<td>
+								82,758
+								
+									
+									
+									<font color = "blue">↓136</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 23일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								5,800
+								
+									
+									
+									<font color = "blue">↓348</font>
+									
+									
+								
+							</td>
+							<td>
+								16,193
+								
+									
+									
+									<font color = "blue">↓970</font>
+									
+									
+								
+							</td>
+							<td>
+								17,571
+								
+									
+									
+									<font color = "blue">↓542</font>
+									
+									
+								
+							</td>
+							<td>
+								55,518
+								
+									
+									<font color = "red">↑1,659</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,894
+								
+									
+									<font color = "red">↑441</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 20일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,148
+								
+									
+									
+									<font color = "blue">↓257</font>
+									
+									
+								
+							</td>
+							<td>
+								17,163
+								
+									
+									
+									<font color = "blue">↓719</font>
+									
+									
+								
+							</td>
+							<td>
+								18,113
+								
+									
+									<font color = "red">↑57</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,859
+								
+									
+									
+									<font color = "blue">↓2,268</font>
+									
+									
+								
+							</td>
+							<td>
+								82,453
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 19일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,405
+								
+									
+									
+									<font color = "blue">↓96</font>
+									
+									
+								
+							</td>
+							<td>
+								17,882
+								
+									
+									
+									<font color = "blue">↓268</font>
+									
+									
+								
+							</td>
+							<td>
+								18,056
+								
+									
+									
+									<font color = "blue">↓189</font>
+									
+									
+								
+							</td>
+							<td>
+								56,127
+								
+									
+									<font color = "red">↑3,863</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,453
+								
+									
+									<font color = "red">↑86</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 18일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,501
+								
+									
+									<font color = "red">↑48</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,150
+								
+									
+									<font color = "red">↑135</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,245
+								
+									
+									<font color = "red">↑39</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,264
+								
+									
+									
+									<font color = "blue">↓20</font>
+									
+									
+								
+							</td>
+							<td>
+								82,367
+								
+									
+									<font color = "red">↑358</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 17일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,453
+								
+									
+									<font color = "red">↑628</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,015
+								
+									
+									<font color = "red">↑1,753</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,206
+								
+									
+									<font color = "red">↑377</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,284
+								
+									
+									
+									<font color = "blue">↓691</font>
+									
+									
+								
+							</td>
+							<td>
+								82,009
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 16일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								5,825
+								
+									
+									
+									<font color = "blue">↓543</font>
+									
+									
+								
+							</td>
+							<td>
+								16,262
+								
+									
+									
+									<font color = "blue">↓1,516</font>
+									
+									
+								
+							</td>
+							<td>
+								17,829
+								
+									
+									
+									<font color = "blue">↓536</font>
+									
+									
+								
+							</td>
+							<td>
+								52,975
+								
+									
+									<font color = "red">↑359</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,009
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 13일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,368
+								
+									
+									
+									<font color = "blue">↓196</font>
+									
+									
+								
+							</td>
+							<td>
+								17,778
+								
+									
+									
+									<font color = "blue">↓546</font>
+									
+									
+								
+							</td>
+							<td>
+								18,365
+								
+									
+									
+									<font color = "blue">↓53</font>
+									
+									
+								
+							</td>
+							<td>
+								52,616
+								
+									
+									
+									<font color = "blue">↓496</font>
+									
+									
+								
+							</td>
+							<td>
+								82,009
+								
+									
+									<font color = "red">↑500</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 12일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,564
+								
+									
+									<font color = "red">↑68</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,324
+								
+									
+									<font color = "red">↑190</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,418
+								
+									
+									<font color = "red">↑106</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,112
+								
+									
+									
+									<font color = "blue">↓1,099</font>
+									
+									
+								
+							</td>
+							<td>
+								81,509
+								
+									
+									
+									<font color = "blue">↓917</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 11일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,496
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								18,134
+								
+									
+									
+									<font color = "blue">↓82</font>
+									
+									
+								
+							</td>
+							<td>
+								18,312
+								
+									
+									<font color = "red">↑119</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,211
+								
+									
+									
+									<font color = "blue">↓446</font>
+									
+									
+								
+							</td>
+							<td>
+								82,426
+								
+									
+									
+									<font color = "blue">↓648</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 10일</th>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,525
+								
+									
+									<font color = "red">↑267</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,216
+								
+									
+									<font color = "red">↑745</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,193
+								
+									
+									<font color = "red">↑455</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								54,657
+								
+									
+									<font color = "red">↑2,629</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								83,074
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 09일</th>
+							<td>
+								0
+								
+									
+									
+									<font color = "blue">↓3,127</font>
+									
+									
+								
+							</td>
+							<td>
+								0
+								
+									
+									
+									<font color = "blue">↓3,769</font>
+									
+									
+								
+							</td>
+							<td>
+								6,258
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,471
+								
+									
+									<font color = "red">↑75</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,738
+								
+									
+									
+									<font color = "blue">↓319</font>
+									
+									
+								
+							</td>
+							<td>
+								52,028
+								
+									
+									
+									<font color = "blue">↓469</font>
+									
+									
+								
+							</td>
+							<td>
+								83,074
+								
+									
+									<font color = "red">↑620</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 06일</th>
+							<td>
+								3,127
+								
+									
+									
+									<font color = "blue">↓109</font>
+									
+									
+								
+							</td>
+							<td>
+								3,769
+								
+									
+									
+									<font color = "blue">↓26</font>
+									
+									
+								
+							</td>
+							<td>
+								6,231
+								
+									
+									
+									<font color = "blue">↓282</font>
+									
+									
+								
+							</td>
+							<td>
+								17,396
+								
+									
+									
+									<font color = "blue">↓786</font>
+									
+									
+								
+							</td>
+							<td>
+								18,057
+								
+									
+									
+									<font color = "blue">↓71</font>
+									
+									
+								
+							</td>
+							<td>
+								52,497
+								
+									
+									
+									<font color = "blue">↓101</font>
+									
+									
+								
+							</td>
+							<td>
+								82,454
+								
+									
+									
+									<font color = "blue">↓608</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 05일</th>
+							<td>
+								3,236
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,795
+								
+									
+									<font color = "red">↑21</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,513
+								
+									
+									<font color = "red">↑88</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,182
+								
+									
+									<font color = "red">↑246</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,128
+								
+									
+									<font color = "red">↑132</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,598
+								
+									
+									<font color = "red">↑1,917</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								83,062
+								
+									
+									<font color = "red">↑3,812</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 04일</th>
+							<td>
+								3,226
+								
+									
+									<font color = "red">↑31</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,774
+								
+									
+									<font color = "red">↑34</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,425
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								17,936
+								
+									
+									
+									<font color = "blue">↓81</font>
+									
+									
+								
+							</td>
+							<td>
+								17,996
+								
+									
+									<font color = "red">↑63</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,681
+								
+									
+									
+									<font color = "blue">↓890</font>
+									
+									
+								
+							</td>
+							<td>
+								79,250
+								
+									
+									<font color = "red">↑83</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 03일</th>
+							<td>
+								3,195
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,454
+								
+									
+									<font color = "red">↑47</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,017
+								
+									
+									<font color = "red">↑130</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,933
+								
+									
+									<font color = "red">↑148</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								51,571
+								
+									
+									<font color = "red">↑87</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,167
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">04월 02일</th>
+							<td>
+								3,195
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,407
+								
+									
+									
+									<font color = "blue">↓181</font>
+									
+									
+								
+							</td>
+							<td>
+								17,887
+								
+									
+									
+									<font color = "blue">↓506</font>
+									
+									
+								
+							</td>
+							<td>
+								17,785
+								
+									
+									
+									<font color = "blue">↓260</font>
+									
+									
+								
+							</td>
+							<td>
+								51,484
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								79,135
+								
+									
+									<font color = "red">↑569</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 30일</th>
+							<td>
+								3,195
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,588
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+							<td>
+								18,393
+								
+									
+									
+									<font color = "blue">↓101</font>
+									
+									
+								
+							</td>
+							<td>
+								18,045
+								
+									
+									
+									<font color = "blue">↓301</font>
+									
+									
+								
+							</td>
+							<td>
+								51,484
+								
+									
+									
+									<font color = "blue">↓52</font>
+									
+									
+								
+							</td>
+							<td>
+								78,566
+								
+									
+									<font color = "red">↑427</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 29일</th>
+							<td>
+								3,195
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,625
+								
+									
+									<font color = "red">↑158</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,494
+								
+									
+									<font color = "red">↑440</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,346
+								
+									
+									<font color = "red">↑55</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								51,536
+								
+									
+									<font color = "red">↑1,603</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,139
+								
+									
+									
+									<font color = "blue">↓1,093</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 28일</th>
+							<td>
+								3,195
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,467
+								
+									
+									<font color = "red">↑132</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,054
+								
+									
+									<font color = "red">↑367</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,291
+								
+									
+									<font color = "red">↑465</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								49,933
+								
+									
+									
+									<font color = "blue">↓2,317</font>
+									
+									
+								
+							</td>
+							<td>
+								79,232
+								
+									
+									
+									<font color = "blue">↓68</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 27일</th>
+							<td>
+								3,195
+								
+									
+									
+									<font color = "blue">↓23</font>
+									
+									
+								
+							</td>
+							<td>
+								3,740
+								
+									
+									
+									<font color = "blue">↓19</font>
+									
+									
+								
+							</td>
+							<td>
+								6,335
+								
+									
+									<font color = "red">↑261</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,687
+								
+									
+									<font color = "red">↑731</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,826
+								
+									
+									
+									<font color = "blue">↓310</font>
+									
+									
+								
+							</td>
+							<td>
+								52,250
+								
+									
+									
+									<font color = "blue">↓1,544</font>
+									
+									
+								
+							</td>
+							<td>
+								79,300
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 26일</th>
+							<td>
+								3,218
+								
+									
+									<font color = "red">↑128</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,759
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								6,074
+								
+									
+									
+									<font color = "blue">↓54</font>
+									
+									
+								
+							</td>
+							<td>
+								16,956
+								
+									
+									
+									<font color = "blue">↓152</font>
+									
+									
+								
+							</td>
+							<td>
+								18,136
+								
+									
+									<font color = "red">↑348</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,794
+								
+									
+									<font color = "red">↑1,175</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,300
+								
+									
+									<font color = "red">↑534</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 23일</th>
+							<td>
+								3,090
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td>
+								3,762
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td>
+								6,128
+								
+									
+									
+									<font color = "blue">↓235</font>
+									
+									
+								
+							</td>
+							<td>
+								17,108
+								
+									
+									
+									<font color = "blue">↓656</font>
+									
+									
+								
+							</td>
+							<td>
+								17,788
+								
+									
+									
+									<font color = "blue">↓182</font>
+									
+									
+								
+							</td>
+							<td>
+								52,619
+								
+									
+									<font color = "red">↑1,635</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,766
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 22일</th>
+							<td>
+								3,094
+								
+									
+									
+									<font color = "blue">↓21</font>
+									
+									
+								
+							</td>
+							<td>
+								3,795
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								6,363
+								
+									
+									<font color = "red">↑107</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,764
+								
+									
+									<font color = "red">↑300</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,970
+								
+									
+									<font color = "red">↑172</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,984
+								
+									
+									<font color = "red">↑820</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,744
+								
+									
+									
+									<font color = "blue">↓2,935</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 21일</th>
+							<td>
+								3,115
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								3,803
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td>
+								6,256
+								
+									
+									
+									<font color = "blue">↓48</font>
+									
+									
+								
+							</td>
+							<td>
+								17,464
+								
+									
+									
+									<font color = "blue">↓136</font>
+									
+									
+								
+							</td>
+							<td>
+								17,798
+								
+									
+									<font color = "red">↑77</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,164
+								
+									
+									
+									<font color = "blue">↓2,581</font>
+									
+									
+								
+							</td>
+							<td>
+								81,679
+								
+									
+									
+									<font color = "blue">↓153</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 20일</th>
+							<td>
+								3,124
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								3,819
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td>
+								6,304
+								
+									
+									<font color = "red">↑520</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,600
+								
+									
+									<font color = "red">↑1,452</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,721
+								
+									
+									<font color = "red">↑228</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,745
+								
+									
+									<font color = "red">↑1,522</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,832
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 19일</th>
+							<td>
+								3,135
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,833
+								
+									
+									
+									<font color = "blue">↓26</font>
+									
+									
+								
+							</td>
+							<td>
+								5,784
+								
+									
+									
+									<font color = "blue">↓343</font>
+									
+									
+								
+							</td>
+							<td>
+								16,148
+								
+									
+									
+									<font color = "blue">↓956</font>
+									
+									
+								
+							</td>
+							<td>
+								17,493
+								
+									
+									
+									<font color = "blue">↓119</font>
+									
+									
+								
+							</td>
+							<td>
+								51,223
+								
+									
+									<font color = "red">↑248</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,832
+								
+									
+									<font color = "red">↑810</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 16일</th>
+							<td>
+								3,129
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td>
+								3,859
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,127
+								
+									
+									
+									<font color = "blue">↓154</font>
+									
+									
+								
+							</td>
+							<td>
+								17,104
+								
+									
+									
+									<font color = "blue">↓431</font>
+									
+									
+								
+							</td>
+							<td>
+								17,612
+								
+									
+									
+									<font color = "blue">↓102</font>
+									
+									
+								
+							</td>
+							<td>
+								50,975
+								
+									
+									
+									<font color = "blue">↓1,343</font>
+									
+									
+								
+							</td>
+							<td>
+								81,022
+								
+									
+									
+									<font color = "blue">↓750</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 15일</th>
+							<td>
+								3,130
+								
+									
+									<font color = "red">↑11</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,858
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								6,281
+								
+									
+									
+									<font color = "blue">↓71</font>
+									
+									
+								
+							</td>
+							<td>
+								17,535
+								
+									
+									
+									<font color = "blue">↓197</font>
+									
+									
+								
+							</td>
+							<td>
+								17,714
+								
+									
+									
+									<font color = "blue">↓199</font>
+									
+									
+								
+							</td>
+							<td>
+								52,318
+								
+									
+									<font color = "red">↑840</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,772
+								
+									
+									
+									<font color = "blue">↓2,093</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 14일</th>
+							<td>
+								3,119
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,869
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								6,352
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td>
+								17,732
+								
+									
+									
+									<font color = "blue">↓45</font>
+									
+									
+								
+							</td>
+							<td>
+								17,913
+								
+									
+									
+									<font color = "blue">↓56</font>
+									
+									
+								
+							</td>
+							<td>
+								51,478
+								
+									
+									
+									<font color = "blue">↓1,819</font>
+									
+									
+								
+							</td>
+							<td>
+								83,865
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 13일</th>
+							<td>
+								3,112
+								
+									
+									<font color = "red">↑33</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,871
+								
+									
+									<font color = "red">↑20</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,368
+								
+									
+									<font color = "red">↑357</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,777
+								
+									
+									<font color = "red">↑995</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,969
+								
+									
+									
+									<font color = "blue">↓452</font>
+									
+									
+								
+							</td>
+							<td>
+								53,297
+								
+									
+									<font color = "red">↑4,472</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								83,865
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 12일</th>
+							<td>
+								3,079
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								3,851
+								
+									
+									<font color = "red">↑114</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,011
+								
+									
+									
+									<font color = "blue">↓279</font>
+									
+									
+								
+							</td>
+							<td>
+								16,782
+								
+									
+									
+									<font color = "blue">↓777</font>
+									
+									
+								
+							</td>
+							<td>
+								18,421
+								
+									
+									<font color = "red">↑186</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,825
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								83,865
+								
+									
+									<font color = "red">↑460</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 09일</th>
+							<td>
+								3,087
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td>
+								3,737
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,290
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td>
+								17,559
+								
+									
+									
+									<font color = "blue">↓92</font>
+									
+									
+								
+							</td>
+							<td>
+								18,235
+								
+									
+									<font color = "red">↑67</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,825
+								
+									
+									
+									<font color = "blue">↓2,036</font>
+									
+									
+								
+							</td>
+							<td>
+								83,405
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 08일</th>
+							<td>
+								3,120
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,734
+								
+									
+									<font color = "red">↑7</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,323
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								17,651
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+							<td>
+								18,168
+								
+									
+									<font color = "red">↑145</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,861
+								
+									
+									<font color = "red">↑705</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								83,405
+								
+									
+									<font color = "red">↑1,711</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 07일</th>
+							<td>
+								3,110
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td>
+								3,727
+								
+									
+									<font color = "red">↑11</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,334
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td>
+								17,682
+								
+									
+									
+									<font color = "blue">↓16</font>
+									
+									
+								
+							</td>
+							<td>
+								18,023
+								
+									
+									<font color = "red">↑124</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,156
+								
+									
+									
+									<font color = "blue">↓1,308</font>
+									
+									
+								
+							</td>
+							<td>
+								81,694
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 06일</th>
+							<td>
+								3,124
+								
+									
+									<font color = "red">↑27</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,716
+								
+									
+									<font color = "red">↑33</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,339
+								
+									
+									<font color = "red">↑527</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,698
+								
+									
+									<font color = "red">↑1,473</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,899
+								
+									
+									<font color = "red">↑1,713</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								51,464
+								
+									
+									<font color = "red">↑794</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,694
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 05일</th>
+							<td>
+								3,097
+								
+									
+									<font color = "red">↑57</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,683
+								
+									
+									<font color = "red">↑77</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,812
+								
+									
+									
+									<font color = "blue">↓580</font>
+									
+									
+								
+							</td>
+							<td>
+								16,225
+								
+									
+									
+									<font color = "blue">↓1,619</font>
+									
+									
+								
+							</td>
+							<td>
+								16,186
+								
+									
+									
+									<font color = "blue">↓1,215</font>
+									
+									
+								
+							</td>
+							<td>
+								50,670
+								
+									
+									
+									<font color = "blue">↓1,449</font>
+									
+									
+								
+							</td>
+							<td>
+								81,694
+								
+									
+									
+									<font color = "blue">↓279</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">03월 02일</th>
+							<td>
+								3,040
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td>
+								3,606
+								
+									
+									
+									<font color = "blue">↓13</font>
+									
+									
+								
+							</td>
+							<td>
+								6,392
+								
+									
+									<font color = "red">↑41</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,844
+								
+									
+									<font color = "red">↑114</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,401
+								
+									
+									
+									<font color = "blue">↓630</font>
+									
+									
+								
+							</td>
+							<td>
+								52,119
+								
+									
+									
+									<font color = "blue">↓1,156</font>
+									
+									
+								
+							</td>
+							<td>
+								81,973
+								
+									
+									<font color = "red">↑465</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 28일</th>
+							<td>
+								3,045
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td>
+								3,619
+								
+									
+									<font color = "red">↑22</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,351
+								
+									
+									
+									<font color = "blue">↓208</font>
+									
+									
+								
+							</td>
+							<td>
+								17,730
+								
+									
+									
+									<font color = "blue">↓580</font>
+									
+									
+								
+							</td>
+							<td>
+								18,031
+								
+									
+									
+									<font color = "blue">↓329</font>
+									
+									
+								
+							</td>
+							<td>
+								53,275
+								
+									
+									<font color = "red">↑616</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,508
+								
+									
+									<font color = "red">↑617</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 27일</th>
+							<td>
+								3,049
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,597
+								
+									
+									<font color = "red">↑5</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,559
+								
+									
+									<font color = "red">↑158</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,310
+								
+									
+									<font color = "red">↑441</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,360
+								
+									
+									<font color = "red">↑55</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								52,659
+								
+									
+									<font color = "red">↑1,576</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,891
+								
+									
+									<font color = "red">↑460</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 26일</th>
+							<td>
+								3,031
+								
+									
+									<font color = "red">↑117</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,592
+								
+									
+									<font color = "red">↑110</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,401
+								
+									
+									
+									<font color = "blue">↓166</font>
+									
+									
+								
+							</td>
+							<td>
+								17,869
+								
+									
+									
+									<font color = "blue">↓464</font>
+									
+									
+								
+							</td>
+							<td>
+								18,305
+								
+									
+									
+									<font color = "blue">↓36</font>
+									
+									
+								
+							</td>
+							<td>
+								51,083
+								
+									
+									<font color = "red">↑621</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,431
+								
+									
+									
+									<font color = "blue">↓57</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 23일</th>
+							<td>
+								2,914
+								
+									
+									
+									<font color = "blue">↓4</font>
+									
+									
+								
+							</td>
+							<td>
+								3,482
+								
+									
+									
+									<font color = "blue">↓24</font>
+									
+									
+								
+							</td>
+							<td>
+								6,567
+								
+									
+									
+									<font color = "blue">↓71</font>
+									
+									
+								
+							</td>
+							<td>
+								18,333
+								
+									
+									
+									<font color = "blue">↓198</font>
+									
+									
+								
+							</td>
+							<td>
+								18,341
+								
+									
+									
+									<font color = "blue">↓100</font>
+									
+									
+								
+							</td>
+							<td>
+								50,462
+								
+									
+									<font color = "red">↑537</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,488
+								
+									
+									<font color = "red">↑106</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 22일</th>
+							<td>
+								2,918
+								
+									
+									
+									<font color = "blue">↓84</font>
+									
+									
+								
+							</td>
+							<td>
+								3,506
+								
+									
+									
+									<font color = "blue">↓28</font>
+									
+									
+								
+							</td>
+							<td>
+								6,638
+								
+									
+									<font color = "red">↑188</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,531
+								
+									
+									<font color = "red">↑525</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,441
+								
+									
+									<font color = "red">↑199</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								49,925
+								
+									
+									<font color = "red">↑186</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,382
+								
+									
+									<font color = "red">↑1,701</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 21일</th>
+							<td>
+								3,002
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								3,534
+								
+									
+									<font color = "red">↑29</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,450
+								
+									
+									<font color = "red">↑125</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,006
+								
+									
+									<font color = "red">↑347</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,242
+								
+									
+									<font color = "red">↑409</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								49,739
+								
+									
+									<font color = "red">↑2,366</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								78,681
+								
+									
+									
+									<font color = "blue">↓887</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 20일</th>
+							<td>
+								3,017
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,505
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								6,325
+								
+									
+									<font color = "red">↑240</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,659
+								
+									
+									<font color = "red">↑671</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,833
+								
+									
+									<font color = "red">↑393</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,373
+								
+									
+									
+									<font color = "blue">↓1,325</font>
+									
+									
+								
+							</td>
+							<td>
+								79,568
+								
+									
+									
+									<font color = "blue">↓440</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 19일</th>
+							<td>
+								3,011
+								
+									
+									<font color = "red">↑41</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,514
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,085
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								16,988
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								17,440
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								48,698
+								
+									
+									
+									<font color = "blue">↓5,240</font>
+									
+									
+								
+							</td>
+							<td>
+								80,008
+								
+									
+									
+									<font color = "blue">↓2,379</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 13일</th>
+							<td>
+								2,970
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,511
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,085
+								
+									
+									
+									<font color = "blue">↓148</font>
+									
+									
+								
+							</td>
+							<td>
+								16,988
+								
+									
+									
+									<font color = "blue">↓413</font>
+									
+									
+								
+							</td>
+							<td>
+								17,440
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								53,938
+								
+									
+									<font color = "red">↑1,339</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,387
+								
+									
+									
+									<font color = "blue">↓257</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 12일</th>
+							<td>
+								2,969
+								
+									
+									<font color = "red">↑78</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,499
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,233
+								
+									
+									
+									<font color = "blue">↓107</font>
+									
+									
+								
+							</td>
+							<td>
+								17,401
+								
+									
+									
+									<font color = "blue">↓298</font>
+									
+									
+								
+							</td>
+							<td>
+								17,452
+								
+									
+									
+									<font color = "blue">↓421</font>
+									
+									
+								
+							</td>
+							<td>
+								52,599
+								
+									
+									
+									<font color = "blue">↓73</font>
+									
+									
+								
+							</td>
+							<td>
+								82,644
+								
+									
+									<font color = "red">↑579</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 09일</th>
+							<td>
+								2,891
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,496
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td>
+								6,340
+								
+									
+									
+									<font color = "blue">↓142</font>
+									
+									
+								
+							</td>
+							<td>
+								17,699
+								
+									
+									
+									<font color = "blue">↓398</font>
+									
+									
+								
+							</td>
+							<td>
+								17,873
+								
+									
+									
+									<font color = "blue">↓429</font>
+									
+									
+								
+							</td>
+							<td>
+								52,672
+								
+									
+									
+									<font color = "blue">↓942</font>
+									
+									
+								
+							</td>
+							<td>
+								82,065
+								
+									
+									<font color = "red">↑131</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 08일</th>
+							<td>
+								2,878
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								3,503
+								
+									
+									<font color = "red">↑1</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,482
+								
+									
+									
+									<font color = "blue">↓74</font>
+									
+									
+								
+							</td>
+							<td>
+								18,097
+								
+									
+									
+									<font color = "blue">↓206</font>
+									
+									
+								
+							</td>
+							<td>
+								18,302
+								
+									
+									
+									<font color = "blue">↓109</font>
+									
+									
+								
+							</td>
+							<td>
+								53,614
+								
+									
+									<font color = "red">↑151</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,934
+								
+									
+									
+									<font color = "blue">↓263</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 07일</th>
+							<td>
+								2,886
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								3,502
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,556
+								
+									
+									<font color = "red">↑115</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,303
+								
+									
+									<font color = "red">↑321</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,411
+								
+									
+									<font color = "red">↑141</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								53,463
+								
+									
+									<font color = "red">↑1,937</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,197
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 06일</th>
+							<td>
+								2,901
+								
+									
+									
+									<font color = "blue">↓36</font>
+									
+									
+								
+							</td>
+							<td>
+								3,490
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								6,441
+								
+									
+									<font color = "red">↑158</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,982
+								
+									
+									<font color = "red">↑441</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,270
+								
+									
+									<font color = "red">↑362</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								51,526
+								
+									
+									<font color = "red">↑2,323</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,197
+								
+									
+									<font color = "red">↑364</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 05일</th>
+							<td>
+								2,937
+								
+									
+									
+									<font color = "blue">↓29</font>
+									
+									
+								
+							</td>
+							<td>
+								3,519
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,283
+								
+									
+									<font color = "red">↑172</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,541
+								
+									
+									<font color = "red">↑482</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,908
+								
+									
+									<font color = "red">↑288</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								49,203
+								
+									
+									<font color = "red">↑131</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,833
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 02일</th>
+							<td>
+								2,966
+								
+									
+									
+									<font color = "blue">↓11</font>
+									
+									
+								
+							</td>
+							<td>
+								3,501
+								
+									
+									
+									<font color = "blue">↓18</font>
+									
+									
+								
+							</td>
+							<td>
+								6,111
+								
+									
+									<font color = "red">↑47</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,059
+								
+									
+									<font color = "red">↑129</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,620
+								
+									
+									<font color = "red">↑121</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								49,072
+								
+									
+									<font color = "red">↑90</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,833
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">02월 01일</th>
+							<td>
+								2,977
+								
+									
+									<font color = "red">↑11</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,519
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,064
+								
+									
+									<font color = "red">↑30</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								16,930
+								
+									
+									<font color = "red">↑86</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,499
+								
+									
+									<font color = "red">↑169</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,982
+								
+									
+									<font color = "red">↑1,226</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,833
+								
+									
+									
+									<font color = "blue">↓416</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 31일</th>
+							<td>
+								2,966
+								
+									
+									
+									<font color = "blue">↓6</font>
+									
+									
+								
+							</td>
+							<td>
+								3,509
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								6,034
+								
+									
+									<font color = "red">↑56</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								16,844
+								
+									
+									<font color = "red">↑155</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,330
+								
+									
+									<font color = "red">↑62</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,756
+								
+									
+									<font color = "red">↑158</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,249
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 30일</th>
+							<td>
+								2,972
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,511
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,978
+								
+									
+									<font color = "red">↑282</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								16,689
+								
+									
+									<font color = "red">↑788</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,268
+								
+									
+									<font color = "red">↑148</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,598
+								
+									
+									
+									<font color = "blue">↓1,251</font>
+									
+									
+								
+							</td>
+							<td>
+								82,249
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 29일</th>
+							<td>
+								2,970
+								
+									
+									<font color = "red">↑17</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,503
+								
+									
+									
+									<font color = "blue">↓42</font>
+									
+									
+								
+							</td>
+							<td>
+								5,696
+								
+									
+									
+									<font color = "blue">↓156</font>
+									
+									
+								
+							</td>
+							<td>
+								15,901
+								
+									
+									
+									<font color = "blue">↓437</font>
+									
+									
+								
+							</td>
+							<td>
+								17,120
+								
+									
+									<font color = "red">↑24</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,849
+								
+									
+									<font color = "red">↑794</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,249
+								
+									
+									
+									<font color = "blue">↓296</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 26일</th>
+							<td>
+								2,953
+								
+									
+									
+									<font color = "blue">↓9</font>
+									
+									
+								
+							</td>
+							<td>
+								3,545
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,852
+								
+									
+									
+									<font color = "blue">↓137</font>
+									
+									
+								
+							</td>
+							<td>
+								16,338
+								
+									
+									
+									<font color = "blue">↓383</font>
+									
+									
+								
+							</td>
+							<td>
+								17,096
+								
+									
+									
+									<font color = "blue">↓117</font>
+									
+									
+								
+							</td>
+							<td>
+								48,055
+								
+									
+									<font color = "red">↑1,365</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,545
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 25일</th>
+							<td>
+								2,962
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,532
+								
+									
+									<font color = "red">↑13</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,989
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								16,721
+								
+									
+									
+									<font color = "blue">↓40</font>
+									
+									
+								
+							</td>
+							<td>
+								17,213
+								
+									
+									
+									<font color = "blue">↓33</font>
+									
+									
+								
+							</td>
+							<td>
+								46,690
+								
+									
+									
+									<font color = "blue">↓1,148</font>
+									
+									
+								
+							</td>
+							<td>
+								82,545
+								
+									
+									<font color = "red">↑296</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 24일</th>
+							<td>
+								2,953
+								
+									
+									
+									<font color = "blue">↓31</font>
+									
+									
+								
+							</td>
+							<td>
+								3,519
+								
+									
+									
+									<font color = "blue">↓15</font>
+									
+									
+								
+							</td>
+							<td>
+								6,004
+								
+									
+									
+									<font color = "blue">↓28</font>
+									
+									
+								
+							</td>
+							<td>
+								16,761
+								
+									
+									
+									<font color = "blue">↓79</font>
+									
+									
+								
+							</td>
+							<td>
+								17,246
+								
+									
+									<font color = "red">↑85</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,838
+								
+									
+									<font color = "red">↑265</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,249
+								
+									
+									
+									<font color = "blue">↓635</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 23일</th>
+							<td>
+								2,984
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,534
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td>
+								6,032
+								
+									
+									<font color = "red">↑201</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								16,840
+								
+									
+									<font color = "red">↑560</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,161
+								
+									
+									<font color = "red">↑344</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,573
+								
+									
+									<font color = "red">↑267</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								82,884
+								
+									
+									<font color = "red">↑173</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 22일</th>
+							<td>
+								2,976
+								
+									
+									<font color = "red">↑18</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,548
+								
+									
+									
+									<font color = "blue">↓37</font>
+									
+									
+								
+							</td>
+							<td>
+								5,831
+								
+									
+									
+									<font color = "blue">↓80</font>
+									
+									
+								
+							</td>
+							<td>
+								16,280
+								
+									
+									
+									<font color = "blue">↓222</font>
+									
+									
+								
+							</td>
+							<td>
+								16,817
+								
+									
+									
+									<font color = "blue">↓214</font>
+									
+									
+								
+							</td>
+							<td>
+								47,306
+								
+									
+									
+									<font color = "blue">↓2,855</font>
+									
+									
+								
+							</td>
+							<td>
+								82,711
+								
+									
+									<font color = "red">↑753</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 19일</th>
+							<td>
+								2,958
+								
+									
+									<font color = "red">↑8</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,585
+								
+									
+									<font color = "red">↑9</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,911
+								
+									
+									
+									<font color = "blue">↓222</font>
+									
+									
+								
+							</td>
+							<td>
+								16,502
+								
+									
+									
+									<font color = "blue">↓620</font>
+									
+									
+								
+							</td>
+							<td>
+								17,031
+								
+									
+									
+									<font color = "blue">↓354</font>
+									
+									
+								
+							</td>
+							<td>
+								50,161
+								
+									
+									<font color = "red">↑1,476</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,958
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 18일</th>
+							<td>
+								2,950
+								
+									
+									
+									<font color = "blue">↓7</font>
+									
+									
+								
+							</td>
+							<td>
+								3,576
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								6,133
+								
+									
+									
+									<font color = "blue">↓130</font>
+									
+									
+								
+							</td>
+							<td>
+								17,122
+								
+									
+									
+									<font color = "blue">↓364</font>
+									
+									
+								
+							</td>
+							<td>
+								17,385
+								
+									
+									
+									<font color = "blue">↓153</font>
+									
+									
+								
+							</td>
+							<td>
+								48,685
+								
+									
+									
+									<font color = "blue">↓131</font>
+									
+									
+								
+							</td>
+							<td>
+								81,958
+								
+									
+									
+									<font color = "blue">↓18</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 17일</th>
+							<td>
+								2,957
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,576
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								6,263
+								
+									
+									
+									<font color = "blue">↓5</font>
+									
+									
+								
+							</td>
+							<td>
+								17,486
+								
+									
+									
+									<font color = "blue">↓12</font>
+									
+									
+								
+							</td>
+							<td>
+								17,538
+								
+									
+									<font color = "red">↑72</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,816
+								
+									
+									<font color = "red">↑880</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,976
+								
+									
+									<font color = "red">↑263</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 16일</th>
+							<td>
+								2,945
+								
+									
+									
+									<font color = "blue">↓3</font>
+									
+									
+								
+							</td>
+							<td>
+								3,579
+								
+									
+									<font color = "red">↑21</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,268
+								
+									
+									<font color = "red">↑352</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,498
+								
+									
+									<font color = "red">↑983</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,466
+								
+									
+									<font color = "red">↑666</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								47,936
+								
+									
+									<font color = "red">↑165</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,713
+								
+									
+									
+									<font color = "blue">↓45</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 15일</th>
+							<td>
+								2,948
+								
+									
+									<font color = "red">↑23</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,558
+								
+									
+									<font color = "red">↑75</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								5,916
+								
+									
+									
+									<font color = "blue">↓236</font>
+									
+									
+								
+							</td>
+							<td>
+								16,515
+								
+									
+									
+									<font color = "blue">↓661</font>
+									
+									
+								
+							</td>
+							<td>
+								16,800
+								
+									
+									
+									<font color = "blue">↓808</font>
+									
+									
+								
+							</td>
+							<td>
+								47,771
+								
+									
+									
+									<font color = "blue">↓3,809</font>
+									
+									
+								
+							</td>
+							<td>
+								81,758
+								
+									
+									<font color = "red">↑192</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 12일</th>
+							<td>
+								2,925
+								
+									
+									<font color = "red">↑10</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,483
+								
+									
+									<font color = "red">↑6</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,152
+								
+									
+									
+									<font color = "blue">↓260</font>
+									
+									
+								
+							</td>
+							<td>
+								17,176
+								
+									
+									
+									<font color = "blue">↓725</font>
+									
+									
+								
+							</td>
+							<td>
+								17,608
+								
+									
+									
+									<font color = "blue">↓445</font>
+									
+									
+								
+							</td>
+							<td>
+								51,580
+								
+									
+									<font color = "red">↑1,413</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								81,566
+								
+									
+									
+									<font color = "blue">↓216</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 11일</th>
+							<td>
+								2,915
+								
+									
+									<font color = "red">↑43</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,477
+								
+									
+									<font color = "red">↑53</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,412
+								
+									
+									
+									<font color = "blue">↓54</font>
+									
+									
+								
+							</td>
+							<td>
+								17,901
+								
+									
+									
+									<font color = "blue">↓151</font>
+									
+									
+								
+							</td>
+							<td>
+								18,053
+								
+									
+									
+									<font color = "blue">↓228</font>
+									
+									
+								
+							</td>
+							<td>
+								50,167
+								
+									
+									
+									<font color = "blue">↓1,046</font>
+									
+									
+								
+							</td>
+							<td>
+								81,782
+								
+									
+									<font color = "red">↑2,277</font>
+									
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 10일</th>
+							<td>
+								2,872
+								
+									
+									
+									<font color = "blue">↓42</font>
+									
+									
+								
+							</td>
+							<td>
+								3,424
+								
+									
+									
+									<font color = "blue">↓42</font>
+									
+									
+								
+							</td>
+							<td>
+								6,466
+								
+									
+									
+									<font color = "blue">↓51</font>
+									
+									
+								
+							</td>
+							<td>
+								18,052
+								
+									
+									
+									<font color = "blue">↓142</font>
+									
+									
+								
+							</td>
+							<td>
+								18,281
+								
+									
+									
+									<font color = "blue">↓46</font>
+									
+									
+								
+							</td>
+							<td>
+								51,213
+								
+									
+									<font color = "red">↑1,155</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,505
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 09일</th>
+							<td>
+								2,914
+								
+									
+									<font color = "red">↑12</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,466
+								
+									
+									
+									<font color = "blue">↓14</font>
+									
+									
+								
+							</td>
+							<td>
+								6,517
+								
+									
+									<font color = "red">↑276</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,194
+								
+									
+									<font color = "red">↑770</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,327
+								
+									
+									<font color = "red">↑552</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,058
+								
+									
+									
+									<font color = "blue">↓1,942</font>
+									
+									
+								
+							</td>
+							<td>
+								79,505
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 08일</th>
+							<td>
+								2,902
+								
+									
+									<font color = "red">↑62</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,480
+								
+									
+									<font color = "red">↑86</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,241
+								
+									
+									
+									<font color = "blue">↓210</font>
+									
+									
+								
+							</td>
+							<td>
+								17,424
+								
+									
+									
+									<font color = "blue">↓586</font>
+									
+									
+								
+							</td>
+							<td>
+								17,775
+								
+									
+									
+									<font color = "blue">↓574</font>
+									
+									
+								
+							</td>
+							<td>
+								52,000
+								
+									
+									<font color = "red">↑3,445</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								79,505
+								
+									
+									
+									<font color = "blue">↓516</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 05일</th>
+							<td>
+								2,840
+								
+									
+									
+									<font color = "blue">↓1</font>
+									
+									
+								
+							</td>
+							<td>
+								3,394
+								
+									
+									
+									<font color = "blue">↓2</font>
+									
+									
+								
+							</td>
+							<td>
+								6,451
+								
+									
+									<font color = "red">↑11</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,010
+								
+									
+									<font color = "red">↑32</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,349
+								
+									
+									<font color = "red">↑181</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								48,555
+								
+									
+									
+									<font color = "blue">↓2,171</font>
+									
+									
+								
+							</td>
+							<td>
+								80,021
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 04일</th>
+							<td>
+								2,841
+								
+									
+									<font color = "red">↑2</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								3,396
+								
+									
+									
+									<font color = "blue">↓95</font>
+									
+									
+								
+							</td>
+							<td>
+								6,440
+								
+									
+									<font color = "red">↑46</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,978
+								
+									
+									<font color = "red">↑129</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								18,168
+								
+									
+									<font color = "red">↑317</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,726
+								
+									
+									<font color = "red">↑3</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,021
+								
+									
+									
+									<font color = "blue">↓74</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 03일</th>
+							<td>
+								2,839
+								
+									
+									
+									<font color = "blue">↓8</font>
+									
+									
+								
+							</td>
+							<td>
+								3,491
+								
+									
+									<font color = "red">↑71</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								6,394
+								
+									
+									<font color = "red">↑451</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,849
+								
+									
+									<font color = "red">↑1,259</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								17,851
+								
+									
+									<font color = "red">↑405</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								50,723
+								
+									
+									<font color = "red">↑1,423</font>
+									
+									
+									
+								
+							</td>
+							<td>
+								80,095
+								
+									
+									
+									<font color = "blue">↓435</font>
+									
+									
+								
+							</td>
+						</tr>
+					
+						<tr>
+							<th scope="row" class="first">01월 02일</th>
+							<td>
+								2,847
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								3,420
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								5,943
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								16,590
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								17,446
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								49,300
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+							<td>
+								80,530
+								
+									
+									
+									
+									-
+									
+								
+							</td>
+						</tr>
+					
+					</tbody>
+				</table>
+</div>
+		<!-- 공통 hidden 변수 시작 -->
+		<input type="hidden" name="dmlType" id="dmlType" value="" />
+		<!-- 공통 hidden 변수 끝-->			
+	</form>
+</body>
+</html>
